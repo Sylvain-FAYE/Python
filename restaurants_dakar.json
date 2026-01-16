@@ -1,0 +1,2984 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6676792,
+        "lng": -17.4285185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66910522989272,
+          "lng": -17.42721407010728
+        },
+        "southwest": {
+          "lat": 14.66640557010728,
+          "lng": -17.42991372989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 821 53 22",
+    "name": "Restaurant Le Lagon 1",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107730168516727028941\">Matt D</a>"
+        ],
+        "photo_reference": "AcnlKN35tHjowWSjG1lXkVrS2N_SLolhQeTyEgpyuyZY1glfPwu_HzEBWwZBvd-xHRR-ZCwg6Nr3k19QsE9BiKBA1tIc8La3ACHjyWz5oeR588sUllBadAurzq3JpuXJrZv3okFa0HYw4nY1xIEUzWkiCtnPgY9eEgNohSGBVcmsHzn-E6fYJX5VPB0maSocSL7tx5UTvQd3HSuInWs8i8mvMVzZifynLw81ZisC1dmAwJWdLllM0SMlKJKft8K_SkHU71vgb1EYqAveYF_qiMZOA7h5hWD3QQUu9KkaCJg3rcm2zPdOs5yIY12pAQtViIgN4jZevRcCl1zChkCjByJjprCCId-dyORoQ-j_6MurRabAcg0ypIKAGch1E75qF2rON_tLf5yTLt2GLTB-RgmDj4TQDbzUv6OnqUhpNZ9_xWRBuTZORKERv7z-R2nqnHVoialeVOVexUXPX_kH5KnSXTqzLYHGGBpo00_gnAzK70JeF3XC7DXVSVfRI9QdAvFkfJYXeflRZEzAcnWgpau9Q95Z15H_g1D_vCd8XxDtI9HeWklDu7_ayUPY6msRTfo6NtPJ5Q",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJg7q5QrRzwQ4R6knglsiPfDI",
+    "price_level": 3,
+    "rating": 4.4,
+    "reference": "ChIJg7q5QrRzwQ4R6knglsiPfDI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2239,
+    "vicinity": "MH9C+3H9, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6763727,
+        "lng": -17.4662107
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67814302989272,
+          "lng": -17.46495217010728
+        },
+        "southwest": {
+          "lat": 14.67544337010728,
+          "lng": -17.46765182989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 839 90 40",
+    "name": "Restaurant La Terrasse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4672,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117362870802028903425\">Restaurant La Terrasse</a>"
+        ],
+        "photo_reference": "AcnlKN0N_EwsI8RC4WoPEwtkIQpbzAI6KiLh7pk28Ht_zvEB-132c4P08y10yidab9P5zmau0M35WWBF3HS2FqrxAGVQzj3iMczVpysHtivqZxOFnhhFjmR2bi58-AinSCyxC3hzTtAIzWny-7t2h1KNyJrkFXsrGqXBGA5H7FqGCp9TeTrHJNYt48CRysFTYoVhhhmYOmAQwe0U2OcToHqSFtNNa7ov_BHzdnK7cXVGgYHjDUAB2r2V7aZFYa1djmpGrB8bt0I2A6A64Zz9Hk9VjGPOAnLMU6T2k_xh9MVYSxMZHmkkWlM",
+        "width": 7008
+      }
+    ],
+    "place_id": "ChIJm8wNlmRywQ4RTuA0Kt77XNA",
+    "rating": 4.3,
+    "reference": "ChIJm8wNlmRywQ4RTuA0Kt77XNA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 778,
+    "vicinity": "Boulevard Martin Luther King, Rte de la Corniche O, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6619849,
+        "lng": -17.4323782
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66335232989272,
+          "lng": -17.43108637010728
+        },
+        "southwest": {
+          "lat": 14.66065267010728,
+          "lng": -17.43378602989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 78 246 09 09",
+    "name": "The Union Club",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100720366447060737501\">Jalal NOURLIL</a>"
+        ],
+        "photo_reference": "AcnlKN0LKvBEJzXitkTtBkepaLlZKpYJYqrAo5g2a8ohFkhk8r43k_kNnBx5hGYZDg-NscWVwXjq4doXH7A-lLK7xVwkX0QY2Rt2I4Rr048bLoAtFmlsTc4E5InDpMjnVRI2iMmQDZCROwW_Kq3qXjsZckIcp_4enfwMlVwdvku9fDR46mzqQ2SIjPlRnFljWSqqXHHONG6BYQKwBWP0DCRT5QlOMLfIZdE_T4tdVQukTsZDpaT5YQJPz_l9L7izmoe1kiHGpi-BGfWf4oEXxSLdAcxzNncw8rKcx9R3DI8s_CcAzxraMlLCGfE_WdyVarYvdoiu7_4Qy-P72xloj5aRHjaOiGnaOv5zO3Hy6XQu_bL6RgZd3DVLdJUVI7u06FLaeFo8QESkh8pj1ix4R1zCdhHgyLp64FoTrzc4dB5gkM34xsNVj4BCi7cuAGCCzD3LOeuwkOHH_RzrmFBfl_r2CPlDRRcgvMf9tEMhLLssCdwf8cZGctonD6BFzoUtGxcrOTpQZcg9BLgRmenOjaoHDFSEuKtmmu6Ql3JFHwLFFSSmH21uo1jhmnVFvPL_3Uk9lwx9FlSjLfB6uiPt1wnsfhNSGJ4",
+        "width": 5712
+      }
+    ],
+    "place_id": "ChIJtQeryspzwQ4R-HOyE4Ze6AQ",
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJtQeryspzwQ4R-HOyE4Ze6AQ",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1491,
+    "vicinity": "Rte de la Corniche Estate, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6710806,
+        "lng": -17.4299225
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67245752989272,
+          "lng": -17.42863897010728
+        },
+        "southwest": {
+          "lat": 14.66975787010728,
+          "lng": -17.43133862989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 32 22",
+    "name": "Ciao Italia restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2184,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116624546103141024357\">Samia Esther Omais</a>"
+        ],
+        "photo_reference": "AcnlKN3hVm5msI1eawXPxToV1jwA04nW_HaD1W1-OdmYfbz5YnnxrgG43km0QCDwkAMViN90u1i29JOqk_zxOM-dySZH3FNdvouNSlRGfSHohYO4MhQBi-fo5niOV0PLPoZ6ULsNjKb9cMrldLxa3M4rY9garYb3nJIqkE1CpGWaeO2G1MstJGy4N7bd8FgRB6LsqR2xtnluvV4rMdXNKcC0DsEjbEi8ZMVkX8gAuOdll5ZAuNveAte8yV42yBX26U2Tj_nyU9kbVhnIrXIB7G2FZjeZL0KGze5rvrke-zqgtFdiFZD1toRqjH9Fa_F2cFpBxyK2liKtczIjAnd38puXyjxCbOHNqk1yDmcM_Ni62sAXntyQLJ6yvI6YhXHGJy0gbEqND_uwUVAKu4X9VunqkFwxwHHDHuk1C32L6gK45GP16TRaR-Lw-MBoA14aJNtW39IFFGwF4aoYrNMJbYzdVES-FcN9iqB5NZpNzrCGrbQ2CE448DbFtqHteJL5zipN90bBD0TbtbiUb6nvTJu1VaG6Gd7XtQg-FaKo1ZcW3ahoCToziL3xBlV7bjE6iEEyZ_jtwakj",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ-xZzELNzwQ4RZbWZP-dEOk4",
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJ-xZzELNzwQ4RZbWZP-dEOk4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 394,
+    "vicinity": "21 Rue Huart, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6697679,
+        "lng": -17.4302772
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67103862989272,
+          "lng": -17.42897402010728
+        },
+        "southwest": {
+          "lat": 14.66833897010728,
+          "lng": -17.43167367989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 889 50 70",
+    "name": "La pampa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105803359052894268563\">Sofiane Touré</a>"
+        ],
+        "photo_reference": "AcnlKN0vOt7uUsjzYR90NLf6d4gTKXTFB9ZNopxyIiXQnUh7BeWpHUDsnriRkq4cJHUG6aaUwal7dwed-S4ymcQNDwktCC-1gX6v1AyRvnmIsiJBm5yF3-3Tsj6fL6EA54T6biFrqOL0Y7lWV_ngZbuRJ2lOXFaiBL6UPzwM4mBb1fH2K-OgdirE6UEpMoirRfV5i31EhZGsyjqBYDKmdgfYINpKJ_xfgyg92zCRMo_J6rSiWWMcreHpB-T30XxiG2U4KEJ-8ljrxdLbX4QkFD1CXMqFufhWF8USa0htETJflfJWfnOpVDd-3J85JmwlKCIcbsk61Us0iZjTi5r7RlHKKWJFZFeIf9PHGqqi0CjM61ry1KTmj3r2tzegmxD4RtXf1JTJJ9hWqV6JFCm5hew2XX_3F018NIHFId7qKkaXUaZXT8ouy4_ERKcUAg1vGvS1Cy_Ip7DVHmEY29gY0PwhoLXZvsP4K8K1NDgGWcongtHPVhH_JizYSBOjSgC0ePgI1egFlDHmlxSlDoG8z837dM7tGGJHiZ6YVf_3rS-2kxeMBJU_NVOPvmbYMAqxe3lnQuWTo_xf",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJH03NgrNzwQ4RyAXUH93_XFk",
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJH03NgrNzwQ4RyAXUH93_XFk",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1290,
+    "vicinity": "28 Ave Albert Sarraut, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.670877,
+        "lng": -17.4346386
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67225057989272,
+          "lng": -17.43325102010727
+        },
+        "southwest": {
+          "lat": 14.66955092010728,
+          "lng": -17.43595067989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 823 89 89",
+    "name": "Restaurant Terrasse Farid",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100051022704016776976\">Christina Sundström</a>"
+        ],
+        "photo_reference": "AcnlKN0-D-Nw7JR4sqMMOn3ZLSOXpZ_z0fdaJaFhwPxS-czCx0gw_l-E4JBjUnRdNT5lKjQYlZ5YckBsCRDS70jjv6pxqGccvP1Zjno_4PTck9PeSNMGcbFb_FLZdxRqjdA5WIMnRuvjssoF13zBi9IVT9jUt_utlfMvTfxV1GUyyaaOul584Qhy8-tq-H_e1BcDstqWnqLHLJrgstOL05y1CVg3OURZkpaWvfEVxq4b37PqFQoZzVD_RZoU94vkXVIeqCVXlODlslinX2AmagmuyN1yFNks3W-pGVcFPq0ek15mJL_n-NAO3M2wmp4qRcmp_87RIqdUMcYc3SCdPSqq_dIsYhZsTg6Fw1PO2Gfxa7CNZUk5wy4pTA69cgXWiFxmkFT19FAqHeyMrbsbQwr-xq7WTWXT_n1IhADWu2AMBXUFEDiNGvsLlm0OW8A8EkHi_YUKbJHVIldHceYTt5B75BJ86EmfeZo5YZUaTYvl2vFiJaSbm9VmzLLziGE58-Okr-2zbGg9P4BTmM6BxF6fLOGURhutpYgHg9Wq_7I808twoA2FC3GHMo57o7s06Iv6J97Go3wyc48BM51aA-mXh2sVGuz3Rg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJORRJ-kxywQ4Ruharn7yOnEg",
+    "rating": 4.4,
+    "reference": "ChIJORRJ-kxywQ4Ruharn7yOnEg",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 172,
+    "vicinity": "58 Rue Vincens, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6949747,
+        "lng": -17.4579342
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69634837989272,
+          "lng": -17.45654867010728
+        },
+        "southwest": {
+          "lat": 14.69364872010728,
+          "lng": -17.45924832989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Trattoria da Alex",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100744477151382913820\">Trattoria da Alex</a>"
+        ],
+        "photo_reference": "AcnlKN1bN8yJXao-1MKWg2nmTbYueFBopeb8JSZKv05GoTYYUS25SOetB99JVzv-XmQpbGXVeS8_gxug3g28d64XuYsWuPx985rZSHZFt9DmXoT0uoGALZe5hLg5O0cZirlj-MJv5NJDyrF0a3lWL4d8Jj_3btdXcRcOHjIBIa1ouqR74NoQFoXV-zAShiQtBu8qJzQt3PfaxOW4yyPEDZiQ1SPos3_M7a89Ws_Knm_jQ_RsS1W4oZ_LjC_VOTOWmi-zE1AOM4kKDsgtJDdgIgGVChD15cjAIosIlU6SrMwtQjuPen6ij_8",
+        "width": 3770
+      }
+    ],
+    "place_id": "ChIJ28eCYo1ywQ4RfqM2deM_Wb4",
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJ28eCYo1ywQ4RfqM2deM_Wb4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 557,
+    "vicinity": "et de la, à coté de la Pharmacie du Point E Angle du Boulevard de l'Est, Rue de Kaolack, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6988306,
+        "lng": -17.4644504
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.70021522989272,
+          "lng": -17.46308012010727
+        },
+        "southwest": {
+          "lat": 14.69751557010728,
+          "lng": -17.46577977989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 76 195 36 83",
+    "name": "La Favela",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118185316190099965853\">Egilson Silva</a>"
+        ],
+        "photo_reference": "AcnlKN3TMI7081B7b0XHDhv1vbg5x4rrrgVQOH1o5lNekEYq2zOKFCxfBfDWJnFY05jtnEHyyXhmVlREyjWkKO_H0Xy26pHYAOng93X_Fp7Y5LoJU4pl3MgcGC3ZmW640ZVTFg6iTUB3n1g94Srd4DSKmZVN0Lwa5wV6z2eeIOZXaHnXLYUeDnY9cXQJV9AWf7coheRLkGUyd_5Y44AU5zAq9d0oFzurqValzSZUM1bsrgJP9F3FzkzG9HEAbZyh0UlEN-tqDV6mLuPQsndg4ESlT78Qfl6InN7k2h1JgIEkBpT5sHefFz6ZD7ieQ_Uob5M6JdjhewmK_MgJwNvKJG8Nm8ehxSpH_UBIj9TPG2gEblxrQUY4DIiQwgnvyAhnDcgHer3YVr71tWSOTceH6vyaj_EtWPrH4cklBFQbKEA_hBydBZy5udKuqV_YcP37glGfQAsDdvodgmYTZ6i4Nd6ONREkD3fwLcP-9x-h-jRtQy9XoPOv6GcnW9AfFEGSYIRe8635YGv0zg9LZ3xem3mlNzdOmBbsoc6yGWHaHJKqkkUbARnszEmzxBlr03-Hwc0mg_esMdcxMQGkYA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJsXdR1RxzwQ4RfZkKk-OJqvo",
+    "rating": 4.2,
+    "reference": "ChIJsXdR1RxzwQ4RfZkKk-OJqvo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 207,
+    "vicinity": "Impasse Rue de Louga, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6735517,
+        "lng": -17.4511016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67510652989272,
+          "lng": -17.44974622010728
+        },
+        "southwest": {
+          "lat": 14.67240687010728,
+          "lng": -17.45244587989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 53 91",
+    "name": "La PLAYA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101629168230755565225\">Ahmadou Sall</a>"
+        ],
+        "photo_reference": "AcnlKN2FePeg8RaVg2P2akvd-EMBUTTM1Hxca_c4aw-sb1ks267A49KjD52OqGnxzigRDTtMSfMV8QNMgxj_-XAgXEY74kpcvWDerxxoeSKOYITcfoxCH3apaYh2K8MujuaD12dxudrl9FYOXawMCdvySFxvRuX13MEfbRq7yOpwIJzu3CcnlTnr8HWfs6VGTuVYV8YkfF7cgfRsNohB3mv95RdqIEAS5Jj8Z05mgJgqywJDvh3AVfHyqgKxr3MPii5QiqX_IKkJK1LS51TBlJwC07PQJjWc5vYXNTAorDbXwMTB58-_e_9OJl0czHwVhqr7I5k9PE8_mtpNUDXk6G6wPMwhNynbjIbizL60bV15Ds19JLj4cSxs18wbku2-bGd30BC_y3AkfWWhrUqA07AYIVcL7CuHl7EGhEoXZNzvzbjol0RPVeOHSGwkD6nwFtmazF6oHLA09JdvSCSDzOOblUXnPoJoskG3C1FwjaEldwjSMVGMvJ6zj9p8BsW9yaPnf2iwTwTudy-s9SeectGVCrznJhAsTo-IOsi6UkTt6VvanPZF3y5jq3dSxMDrAG2o8rfOYDyBhiEbwg",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ91ENNkNzwQ4RBhEkFTNuNiM",
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJ91ENNkNzwQ4RBhEkFTNuNiM",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 950,
+    "vicinity": "Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.706011,
+        "lng": -17.460128
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.70732892989273,
+          "lng": -17.45881787010727
+        },
+        "southwest": {
+          "lat": 14.70462927010728,
+          "lng": -17.46151752989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "international_phone_number": "+221 33 864 92 92",
+    "name": "Restaurant le Bazoff",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104587111055744389344\">Frederic Dacosta</a>"
+        ],
+        "photo_reference": "AcnlKN2KoaklryOjkC1rQ3bJrgcjI5b5NPVW1yO5LeqlN4fO6PyfDZtYVFDsB2gKWDAloh5amkmIJJCTF6sHmXbeiTF0IGGaFIJiiCWlzKnN2oG7R-i6icZNIvyeq_Irg4TnPZX83uCc89MKoOrZZ3XrvhhAgqq-c38DckQEwTGS-HEu93x0emARyKNoKMz_taAXkn8oNXqk7JcnYA9KQJ1znvZM8i_IWskeXpQIOzkY9wFbRL-BYT4BlAPEuPBcb6VKBotyVLZWgQzxQjMACpRFwTd8ngTxH8KZIMF4RoYmUiM0XsojH-lda9_s0GbrvDDKanPQYir5CtUmbS_Ge9XYkkmUrY_udzey11ix9VS4nVd8iajEbZuabfOHMyYCuCjN5DTTZYMGiXKrxxIvR-f8I2cvTdb4Ir-KiQ-9KozplQYxE4JG5CfzoFB9dKjD9NA57LO0hUmVp0KDrkQ0Aj1pcNaSYisK-QtD4BOXsNJgR3si7h7h3WT-2OcCm7t0mWrI4QUi0zo1tmhyxfKoonrahqJRBz1ycXIMGr1KeScp_JHZsNuhkmlu4xYM1NMhZdCf8lxTW3Af7FBH-g",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJ8Wp3IL5ywQ4RGE3ZL40s7JU",
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJ8Wp3IL5ywQ4RGE3ZL40s7JU",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2321,
+    "vicinity": "PG3R+X2Q, Rue AAB 09, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6704078,
+        "lng": -17.4289544
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67168652989272,
+          "lng": -17.42813082010728
+        },
+        "southwest": {
+          "lat": 14.66898687010728,
+          "lng": -17.43083047989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 822 49 70",
+    "name": "Restaurant Le Kermel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2288,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117559983051751248053\">Restaurant Le Kermel</a>"
+        ],
+        "photo_reference": "AcnlKN1xeRkyO__zZNFmy3Ak3diL2DBQgNYBPzGGUDk2qO4DLXq0U8soUYzTiEo6c3lkQWbJ1cjJC2osO3cWcnlfuEQrVCNRvRgRVMbHB5sVITUgrmv6RfOGgPj77djj5roZ18MJxtQmNo7YJIQRXbsCHWB3eHO4Gtc3qcFhlHgx_BF2lebYRdUOU2PNu-TyrG0FrbAb5LeAxDG3MLSPRI1asBhfT2nQUS1vitBwMgCibRu_ya0xubieMyfwOQbMu55D0Kr98pZjEC1rUx8aGWha0MI60N3IHjkMJq-hSJeg1cCf0HqUni0",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJB9xpnrNzwQ4RMbQ2v7JCIPU",
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJB9xpnrNzwQ4RMbQ2v7JCIPU",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 395,
+    "vicinity": "7 Rue Aristide Le Dantec, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6676503,
+        "lng": -17.4354382
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66904177989272,
+          "lng": -17.43407167010728
+        },
+        "southwest": {
+          "lat": 14.66634212010728,
+          "lng": -17.43677132989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 21 72",
+    "name": "L'Orientale",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1155,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114957216606709380434\">nada sacy (Clari)</a>"
+        ],
+        "photo_reference": "AcnlKN2YCrpfZx8I5rM7Ne8j8c9TX4ASwzhbSaHpMYM63YoWkcfkapuuCuRMPRsECUMjL3DBEOEDha8CKV3yh-l-hXTnFfg4sK9obnSDqCMzBZqaGKAtyPYTIkkpJNvJh7ukYhbSBGFOS8xadXdX7EvGMbqi1XDQfkzhQJGoNAMPoSdLN1JU8nywxCVz3vLiRXEXTQudj8lQS8uJv7WztLwLdugdysmeEB_c9TbLAmU2_QgElThWgXSKFpwGO4Gw6m6GwDsmAsLpye6h_4-_ItIHS_8bSKIr5UoSh27Y2Khnjf4zwIET9y_50t3PRTSRbYTFo-URqdccGZ8WMw5p6Xu4VdI9hwftu3CNg29q-jv3HHURgYDeE1xZXoVb3BK6Na9-d9HgNjD29IS3Z5MW30c7ZWvWUcb9xHVtYB6ysT58fgUeWdbjR2pv5ovHfQZjp2BT3FUbnJWPIKWtfx6FMcDuZtj8fTlOZ_vSkVYtV60zoFkOthQTrB9YideLkTESSnirneaT2w7_ByesBBHELx1NMiYz9nc9Gjwg1hUe1u2v9kN8oJVtT6-EjGRXyhBq6NkU7YI5ucE2",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ2ZOZVElywQ4RDbqP39q6xUk",
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJ2ZOZVElywQ4RDbqP39q6xUk",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1572,
+    "vicinity": "73 Rue Carnot, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7160545,
+        "lng": -17.4707632
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.71736322989272,
+          "lng": -17.46939247010728
+        },
+        "southwest": {
+          "lat": 14.71466357010728,
+          "lng": -17.47209212989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 30 120 00 67",
+    "name": "Grill Time Dakar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115107093119868147106\">Grill Time Dakar</a>"
+        ],
+        "photo_reference": "AcnlKN3yOqs_bzROOtiJmjKYfT9qZSu4n83D1AAhHEasZbgzfvzu9hoW9QZ4xLliJUbMcrDFSqfd2htOk7REjI-zBvQimD5gDAK01NSSxh8B5_axdBHFCnlwToSCVlTqNEWEB9Wv7UBDuX5ADjHaqcZ0q4cpJAizdtwlpBZnaS9n0bNIApjf8ci17u-xCMx5Qlp7DKOeELsW4vItqi9GiupfcOdx29kuBgd8Xsbtcg_xaJUVw7W0Lu6c1heH7I3OY7EZCyEUQt8c-YjDlRvSSyRCTfsIRFH7fEjcQ9PRFeOotjfbfFWz5mE",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJeU2xlitzwQ4RqEjFzDGhpvk",
+    "rating": 4.5,
+    "reference": "ChIJeU2xlitzwQ4RqEjFzDGhpvk",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 180,
+    "vicinity": "VDN, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6682059,
+        "lng": -17.4358035
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66955227989272,
+          "lng": -17.43448657010728
+        },
+        "southwest": {
+          "lat": 14.66685262010728,
+          "lng": -17.43718622989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 823 19 09",
+    "name": "Bidew",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101341995814330705525\">Francesca Cilio</a>"
+        ],
+        "photo_reference": "AcnlKN1VgQ_YgKkIcMLmmsIoJilglXqMMfwm2lUt9WTzqf4A8_-eduyOXLqYAIDaBNx__-WfuTMHpPLlEPdcdNe02NFAnuowC8V1g8x3uvs6huPjGeYUIpz8eHc-bY0OyaQ1Xx2ODElmcI19tW-gTyS0BVQzAYe23lGgJerKaCkmiQjBssjHAcvtbQ8A_0Qk8iclJr7zBBeMu5H06vYHEfYLRhaaCPxZnphmaIL2IbIGwZ4Y7uXSEM5amp86asdAgKXVorUDBs2jFTF2cfiVXN-XDKPuh-thwe_v6zb_WLrzTJDpMgPYbBz9xj11UEkFe-hEDawuDZk0-usRYuraNbZxE3lCogj7O6pOViMVxArikm_e6maqZeJlm32wU4jrKEfvI5yezRYMIlOkq9xRzsY3eKWUBYqn_2oVreLNB76rReGYYwRe0_HqEC4vPjaS2FnKM7zbXNejX_f6yBNRfW7WuVVinJGpsJ_6WRw8L6_VdSEwCy7tzdyZoOMQqugbVddoFDjan5FVm9uiXPQUmfbinETLaPhPkFXY43NwX_QaEBPN56XJ_NfrG1hedss2a5WFLLOtT869",
+        "width": 4640
+      }
+    ],
+    "place_id": "ChIJhweJg0tywQ4R0ITp59NpI9M",
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJhweJg0tywQ4R0ITp59NpI9M",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 328,
+    "vicinity": "MH97+7MP, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6931553,
+        "lng": -17.4602285
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69444427989272,
+          "lng": -17.45882687010728
+        },
+        "southwest": {
+          "lat": 14.69174462010728,
+          "lng": -17.46152652989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 825 58 33",
+    "name": "Le Jardin Thailandais",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116449744857713273136\">Bechem Mary Keller</a>"
+        ],
+        "photo_reference": "AcnlKN2FgU362YLoOdUIakc6ld6yBHQnQdvsADlJLTbNXCmNR6CzjAtKp5HiURbjvKya45dSEsQBJ35Zo2UjoYt8mv4RT5hmO36yjbdtHXrP3tHPmY_c308PeqC46DEFI5ys39h0oIno3TWt_9YgcVlNU8oNJP7DFzNd0_CyNnGEd2EWSLajgjqY3M70IYKrFpDHAEAAo44_UkiIWmd8GEjFdou4UCN5bjxH3DiHgOVB4ZdqdbD7LwbcPWEA8rsrUa5jmgCnM9K9dM9rcLF3szwelMWhIy13jfxwGo7VjYoofVseGjVcnKgHY5WXeCQE3IXtxeY7V1ptXPhKkr89WYfGSoKSJTw8t-4-N3qHieSoy1M1XlIxobWU9_o2GCy8gyjTtqdIJsYz7RBalmSCLVf7hyIzwI57kVdij0ldiVC3FEtKRzuL72Qlp_KSmwGj0r5SyzebsMkNL56vF5yCQ5K6kJ3Gc2owZzK3dGAXtA82YYAPXb5V4hMsuFmQCmOlNWAnIXXrAcXpQ9-eUJ8e8-vq9RlTKu2eVARqsxON0cfNjRFP3u2tcuEfZG0112icXHFYcwKp2fdp",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJGRp2vo1ywQ4RRiI1eJM1lhA",
+    "rating": 4.1,
+    "reference": "ChIJGRp2vo1ywQ4RRiI1eJM1lhA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 670,
+    "vicinity": "10 Rue PE 43, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6696749,
+        "lng": -17.4334545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67092527989272,
+          "lng": -17.43206357010728
+        },
+        "southwest": {
+          "lat": 14.66822562010728,
+          "lng": -17.43476322989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 823 63 63",
+    "name": "La Galette",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2296,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111797222875643248015\">Gatien Obligis</a>"
+        ],
+        "photo_reference": "AcnlKN2J-XTCl9_hTolvjJt0JgauikgOAwW6e420IKp-WQmKVpyKmDtY1x2OPOjCn2TYsUQvcDHb5tEr6ZGTbeBIs1-qhyqIbTL_wY9lWOY__zSyf4xe7gcWvRn-Rb-AOHsgGJeESwi8kU44g_587IoOcRgBY2Pf3h8w21aOW6BE2SpsRAE2LlpMEscIoKyj2plCDZSBnZanYoAawQB65u927lnxJJ2EOo4adlYRewdR8ed40rTJHVBWA2Up_73rcASHlrarSX09oUriDKf1O4SDnwQQExWT9vonp2SZ64JMC9QcjoEjxXoh0SgNa6ImYU4RSHdI3RQqUx_qgVr2_JO4o5Ieqi5-tcAuZbpv39PHjCxNcMRDTdTE8HmNdz-xRi53DsCEKIxGxpM3L0JbN2kXux6kwC0irHLYK1Oigmj5XD7FYJUtWamXytf10VxMYi4E4aIAsmxXYGkoGbjKgHg_25art8oQb7MTJ_9zRZAU5Wr6Ujjdhw0A1yOYXydwLfZuddj1eR020lKcRfUeXRh1X1t_0eZRRDiaMi70ZZILQY2_nBa17dCCH9SVkhaswML2w5YyN5OFvRit0n4bvFY2hsfpnv-VGw",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJtzX6vExywQ4R0RIaCEr8vCI",
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJtzX6vExywQ4R0RIaCEr8vCI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2008,
+    "vicinity": "MH98+VJ7, Av. G. Pompidou, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6673146,
+        "lng": -17.4415193
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66857432989272,
+          "lng": -17.44011802010728
+        },
+        "southwest": {
+          "lat": 14.66587467010728,
+          "lng": -17.44281767989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 333 21 24",
+    "name": "FRIAL CAFÉ RESTAURANT",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105158576156352685655\">Makhfou Nd</a>"
+        ],
+        "photo_reference": "AcnlKN2-dfVGnNWXBNmvdYDsxRSfEolVlXtrl-ZEhnWTlYtIG3QJlR64kljQisyk6n1VJv3bicCfMXSMwF0cwCjO35jCPmrDn4Kqul5nE9jnY1plVzilEyjquTfBee6ekjsh61nRlxgwbhXemDmDk9I31mIfcuvPnngBTaFEMpsxkrj1DDAVFJ6W883HLEVGFuOJCiji11DkBB-zuCjRaHm_Ihvspg8HP_XQh28AOBHu6zOi0RbIBMPK2kGXZe7WVX_f8V_OrnlVXH5cBDFdpiBtI2Mb0_tSXRPociNXRgA3w_TMiHBcQdXy9PYLEMZvQKMZeCM0i3g0jn7BnCKZ726jSeNnxrdHp8PuFNF2u_LBPYvgBPUEVWRw3W72JyxVVEayKbMi46wpDAWqIUFdkq8s10z4MvsTxyrV3opyMTXxUyYVQqxLkiDDy3MxuKJ6bICdDWi2dIq9qGoCDL0-BQKq8C6tLD2YFdy6ed1QM3fnx2zNPQXzqxnXjJk7btC3qDa7_hudszvjJmjHDzPKrb5uvKrEHKn37Y-XulyLmGsGASPF5W3tIB3fL7DpnzV7YI1ldIzpLgv7xH-mPw",
+        "width": 4849
+      }
+    ],
+    "place_id": "ChIJJb562khywQ4RFVqBU6mzIhA",
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJJb562khywQ4RFVqBU6mzIhA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 754,
+    "vicinity": "Rue de la République, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6687316,
+        "lng": -17.4350402
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67010927989272,
+          "lng": -17.43374432010728
+        },
+        "southwest": {
+          "lat": 14.66740962010728,
+          "lng": -17.43644397989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 454 62 64",
+    "name": "Restaurant Chez Ndioufa Terrasse",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111303703850740560914\">Mel B</a>"
+        ],
+        "photo_reference": "AcnlKN2KzRP8IeLB6S2ZLQwMoOOPt5aIKy2rcurI0okGPKAnNPCbNfD7nh66oGEHCAyj2U1P3NK-rTbtgqVxLs9Hs94WePI736LGv7TxmVdyz-HXbawxVSFkx4L_Ap-AQWqCVTRSxJOFacTtFqpzSvi2aE80AwDNp93lPI5J6pxfrGkAnDogyNKqRTcU1rXoxueVlmJUncbKwDwP34QHt0Qk6sZVwT36WF9HVWs2plduoUSiFaaRgAvOi83272E5K3C9W7hMeiq98b8ditkuu3T0GutuvKAss7LOfWvuxEy1BD8t0Ya18YDGFIbz0eGyXjoxRA2buisQc_-UPQ6BtPVhhpbTFjCBpdM1z521-j-7lGpnuVV97ZNZuR-BXZpqfUj-WJK2FkbsE83ucUIXPTH9HLJXBa-BnaCeFjj-8KNH_wlpMHwpLLt7559k3aEBsQoP5gdrZkQvM7Cc6bKkNyc_Nf6jGDHTSDkx4F-080asjWUIz1E9tPevViHIFU4tbxUrqKy82s2pezpuiARpiXK-I7RuBZfY0HaS2Y-CzfaME_gifq9WDf_-2miJgPyt8H51PQlYR4ATYj1zHxlz3nVRyqjW_5A",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJs0pwgExywQ4R-qHSvzwPvKo",
+    "rating": 3.5,
+    "reference": "ChIJs0pwgExywQ4R-qHSvzwPvKo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 142,
+    "vicinity": "99 Rue Mousse Diop, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6745424,
+        "lng": -17.4313244
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67583342989272,
+          "lng": -17.42988152010728
+        },
+        "southwest": {
+          "lat": 14.67313377010728,
+          "lng": -17.43258117989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 821 86 98",
+    "name": "Club de pêche",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101145861026337729636\">Joo Bin Bang</a>"
+        ],
+        "photo_reference": "AcnlKN3ShOj061nm_HaJX0uT0k9SJx9nhvOm_D6J76Ddswt4u3WeGvOqpmW34THuOTMDO5z7ES6cb_2snHYwBBVJBv3UDmr2cPM3JNazxODnyA-8h-nunxcDd_7uxxBG7ujjAGXCBqbP6Y-Q27r98nxTqMkCRiwHbbIpBB12uHPraTVNeh6KvBCjFnsObFmuZcAAoUiUCcJqS1CLY5Exnk7ixDW6K1c-pmGWpKYEb8QioZoK6U9pHXfIED_GA2UfcewV0VSl1yBszZEO961GFZFfd3iOLPCpdCIFnOLx44MCA90WRz4xTl5SdnzI8JnNWXr56-p5oBOnjtNPXA2ewk9qes8LrBtu1E3Jc7WYCQiAGmQ9g5W-8kpfGe4oGCZj270NOOTO8HPBBzEFrjLW36a2pB-o-Pa-1RbxYsaEGOTE_RvP0Uf9UZRfAVEhq3450GdBzowmzLuV4ignyZ1Hx8QBZ7SGbUt8kftGIvoQ1D346M-0W1Gp-ltP9oUsRWbe1l6Tz8pFEyHm8c7UascLiuHGTf9LbywE7YAOsU0daIBY397j-m4ex9zRYDSUmRaIKwjBY0Pes2Kh",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJH1m5p7JzwQ4Rv3f8ThZx_nQ",
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJH1m5p7JzwQ4Rv3f8ThZx_nQ",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 810,
+    "vicinity": "MHF9+RF7 Embarcadère de Ziguinchor, Av. de la Liberation, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6873825,
+        "lng": -17.4697311
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.68872692989272,
+          "lng": -17.46836687010728
+        },
+        "southwest": {
+          "lat": 14.68602727010728,
+          "lng": -17.47106652989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 814 29 29",
+    "name": "ABY'S GARDEN",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106524139493451477455\">El Hadji Abdou Aziz NDIAYE</a>"
+        ],
+        "photo_reference": "AcnlKN0nwA8OVkOMZHRb4caAOQEpwljsM4huyf-b6etm-bRP1CgTnKWvadX84GVgYMT0kQgrhuZvMs4u6bEhpycfEqeWlqUXH1O7YU9Xo1jHB4dzO1UDPLtKuybTJ7xn40KizPVkLhH1b-zKYTsU9s9jaoRshkZHJQLugHrSW6ij3FPKVW8pv7IU7DcjTKz0Js3_bA_PMyaAN1TaLEp2xcTM8zNcyTxpq4mIgLAYCBrKZYEEECrDSMD19z7ThWn0zWgabkMCzeiRP-yL2nFW9BnyBC2xczz81p-cUP-K7oP9d2FlJEkv1emu5wxVUAuiPACnshEmJJhvJwru_ZiNTNL56Y8I9IBmP0ixvURvS3ep4aE1EXSH9e41THy7r-EZ2HqhViQiqeffuedPqiqEh5BIgh9g-vzLyFEJ5QsTsOb68_UBDLbbfuL0nYyK1V1LAKXoNFNDl-SYPxIloLKsBcu9I4ibvGY01FoJhxYrUQdS3zvTJZ9bga8DPldYHzkIfjJLpxJbf0CVoYYLf691Rbv22q_o_JQAMLNZ2NLVJ0ADgK_iUvd3-9ZkSXDgTkhnKVJd1PulX2HV",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJh4W3Tz5zwQ4RMTHT2WQcpVk",
+    "rating": 3.5,
+    "reference": "ChIJh4W3Tz5zwQ4RMTHT2WQcpVk",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 329,
+    "vicinity": "MGQJ+555, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6646969,
+        "lng": -17.4345398
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66611812989272,
+          "lng": -17.43313412010728
+        },
+        "southwest": {
+          "lat": 14.66341847010728,
+          "lng": -17.43583377989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 72 05",
+    "name": "La pîazza dakar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1548,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107175551987540250845\">La pîazza dakar</a>"
+        ],
+        "photo_reference": "AcnlKN2Lmrp0lSn6tJcdPo41CDu_H6zbd_nJiwzP9hpJGTlvzjrg3zqLN4llRL0nFE8pPAx1K7xziK_Uokup-tFd-EflqJh8tnNroyYboC4WEiEMiM9kMbnGjyYNQFoDnIzGlUjssyOaoD64jS2UDoM_1gjrQTwHgqth22RblnNULWS-tB40SQBqTcfaA4G-VI6iHNWXLjC8pKjtQe2G35qioXQK6yq-IiYtdOAd_Ni0tetn0hLvCtUKKvOfv3visVXHc3BLQQ3AbOm05RjVNrqhySwLWrx9d537_xUpj3Jvxrj-WFMIBcA",
+        "width": 1170
+      }
+    ],
+    "place_id": "ChIJ3aiK8UpywQ4RVMdAIDIz1eE",
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJ3aiK8UpywQ4RVMdAIDIz1eE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 590,
+    "vicinity": "Mohamedalyyoussef@hotmail.fr, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7014743,
+        "lng": -17.4648343
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.70288312989272,
+          "lng": -17.46359127010728
+        },
+        "southwest": {
+          "lat": 14.70018347010728,
+          "lng": -17.46629092989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 824 05 06",
+    "name": "HERITAGE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109844225897420629834\">Kokou Lanyo Djitri HOUNDJAGO</a>"
+        ],
+        "photo_reference": "AcnlKN14MMatNWQCdUMHT-7LXstsWJkm7g-qQk_IsurLY8vKUbyEg2pkZRNAZFq-DUkhlmvwOhoK0Z_1AB0-9MEvsn8LGq7mR7LIk90lBaBfgErWE6vpcGIbw7n2KPaHEf5AYZHCReWhiY1zFSulWAQUOfWIag5fpssibXUB7SMm-EitlUlPmY7oFVzSJ35_0vKZatVDRtrOUiqCIsr64-Vs8_yLIFfzAJ3ScjoTV3ggWPmoZ5jVCbpusgSj4AEmU20lyj_0d02CmdxO7jkYOk7YNANf56w3bkZGB-3OWJPnpe_SMgwPCQ-cyA_uKNt5igwxEs7vtsyReWJVJPCb-Avr8_TlGcsD4Jss3oMcXCsYJg0Ez4baP1NY40-gluMlKgh_XsdrsX9n1La0lWnld3bBwZbLOVmPR2G5sLMn7YFOUVv-iQSdvIuAxSn3KIWX9ILTcfv4ckEide6Jp9tIn-b0Sslmj1BgAS4VSk1Xi9dc1oCdUgOBGjlg_nMfYDnMmfqnP1rAqH1PPJ8Vgu3sPmCaiewSwdWlsofT0TZ5ndpAw_Nkr7oKzLfCaCr28sg9gDCOW2EDMuYD",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJiSS-Ar5ywQ4RZezFVraOJcs",
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJiSS-Ar5ywQ4RZezFVraOJcs",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 544,
+    "vicinity": "PG2P+H3M, Bd du President Habib Bourguiba, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6689465,
+        "lng": -17.438901
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67038287989272,
+          "lng": -17.43757387010728
+        },
+        "southwest": {
+          "lat": 14.66768322010728,
+          "lng": -17.44027352989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 42 59",
+    "name": "Chez Elias",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110437849053975176441\">Ismael Toé</a>"
+        ],
+        "photo_reference": "AcnlKN2KTxKtBl8xi1_0VKmUSpEGKY5Hcf5NglwSCsVaZIFL3CffxmVOU44JP-VuBBbmx99dI2FaWY2ofCKAAFtQjhUP-5e6GMpKdt0MBpsmePIgnQOm8OsEUpemqw_-Y8l6L53JD8qDc09uVo7lm_j1fI4ZdeLDPVKj5jStaH2lBqHAwXInClOP_iAQcDImXmQ2tjSSQkRPkKPX3R9KW9zyRqTGjTMMFLXfYDhzeM6cXPodihti08gFCwV5FrfnUuLcLQKf5Zln4YdJf83TQYit9EOBWqG0Q0pWgBUl9V0ByjtfLMoXaNdJhStFyGJRlpkwLRZ3BNdEjk5Ofz4QDe0V0iYuSVVBh1RFtY-TCif_N9NTf3eGfEbP_vOdXnSgDKSGBStFZsW8r8nTlrf6U0T_rY0w_HIUqE9zDe0lFBJt4WYoaiwduMXBcf5NhQZE4h_-1Pbztb8rUNx9PyFUOWZeftoVNUYRBca2S10yADA5ReRGaSO4nFHcumbFpOiWat1LHQUusB-zBXK0dCNXrf70hEI8YwAZ2B49SimSCjQpRMFeqq7pRDmHwUEWXmDYr7iseCE-k32iAwRVCg",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJf8wUuk5ywQ4RwEZ0L9LmKls",
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJf8wUuk5ywQ4RwEZ0L9LmKls",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 591,
+    "vicinity": "81 bis Av. Peytavin, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6682234,
+        "lng": -17.4364599
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66963752989272,
+          "lng": -17.43507012010728
+        },
+        "southwest": {
+          "lat": 14.66693787010728,
+          "lng": -17.43776977989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 822 90 00",
+    "name": "Seoul Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100232476853248971458\">Khadijjah G</a>"
+        ],
+        "photo_reference": "AcnlKN1BXQXNhtuBXI0fbetidLPRtwoWlluRx5tP8ogtcdOTxojFskSOukzw6qkxLakMYpkcyX6gzimJj4WLU6fcftgba_r5Bf98ScGT6shdyi9_O2KVeWkEigosuv317TEXhu8AFsgtMPQhpS94XXSB4nB2ol-JH8-LF7_7LH70SZq0rnz0744A0u6Mnq3szQ4b0JdHYr-tq-MVpRKmxZqp97nEw-Tb4fNCMHvG9qTEVdZ7jYPRTidt5smyZGy-kOZbpB13OWaTVMjHkOHsO8Smzb5L9VYhHa_9KWhmzNgN04h9QvQB3P90CQtKYjYEubkX3x89ZdenKzfmiLO8pfuvG5l3iJCpUx0os06uJmCRZxSTA718se-I-n3z-v9NSC5TDCDkGnDpr_ro3TQZC7Y_GdyMAkbS3io_vJJAvY8YEu_aEdiCQKF652PtDrsGssUzQT1GiebhEHUT7hzZ5arJv1X3jkdZ653HrwA-MDIhzAhHywyslXJcNWh4xixAyJn2nymNH4cwDxdlxeuimJ-BWDvcpRZbT6PJrT8fjDB0iM1_c_XmQXlroG2oVle54Zgykztk2ldU",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJn3WS9EtywQ4RuFN93a3ts_M",
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJn3WS9EtywQ4RuFN93a3ts_M",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 276,
+    "vicinity": "38 Rue Amadou Assane Ndoye, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6977725,
+        "lng": -17.4600196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69910007989272,
+          "lng": -17.45871477010728
+        },
+        "southwest": {
+          "lat": 14.69640042010728,
+          "lng": -17.46141442989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 442 22 22",
+    "name": "Restaurant Swiss Palace",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2269,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115375149129735313240\">Restaurant Swiss Palace</a>"
+        ],
+        "photo_reference": "AcnlKN3PNAPYpROFZ0fIB1XCJAIqbyBmV_7gajyE913yNIskVTQsZZbvukG39qUp9LU-XEK3qzQxJp7YeF15DWqisc-sTCiLn6wN9_wGRnynMbKTYZw1cNMyZ3IUMjK0qAjouMiRMMzeQ1Njg9_p-bBYecYg8mSrjfxKjLmcO95f1JLwIVLAecM7S3Hy0BPZAQf8b5C2Prdyb1VLNLA2ZBwEeVf8DPilHeWxqnAexWxxjYcrLc1GjYmh86A8l73Cw93gtpa1Q1o9p4O8xxd6jFzfdkACeN4jpIbVhh7tLp9NQ3yavSj2MYc",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJOSlnsZNywQ4R4AOdMBfhEC4",
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJOSlnsZNywQ4R4AOdMBfhEC4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bakery",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 1611,
+    "vicinity": "Av. Birago Diop, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6951312,
+        "lng": -17.4578928
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69644762989272,
+          "lng": -17.45652677010727
+        },
+        "southwest": {
+          "lat": 14.69374797010728,
+          "lng": -17.45922642989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 502 95 95",
+    "name": "Un'Instant - Pâtisserie - Restaurant - Salon de thé",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 568,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111157154180057301193\">Un&#39;Instant - Pâtisserie - Restaurant - Salon de thé</a>"
+        ],
+        "photo_reference": "AcnlKN1I2D3R4MGJwrZDOleX-8KvAydhyxmYSPXwmzXUc_pwDYZsVTiZcME8Q1Jji_KjKM3nLfVtliBDfQ5YrKQ89wI8GvSx5N4UPXQsmVhW7zpiNSzFbe45BosExIEj-64Hp7sft8oGjM44xoU88ummGfsFVWjfpWjKPO9eSRq6RzqA__5zoc5gi_yOSbLFTFXkMXiZGovkAdYqyIkan5oO2OfPzqg_KxcFbjrt06bc2WMB3gt6vAiWupiUlC4Z2-bFW3WoXe1QMPaYXAaZ4KpCvkhIzouLoIWuDOIbq0BXNgPR-rrJWBQ",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJV2p1AyBzwQ4RSiZ5QqYiH-o",
+    "rating": 4.4,
+    "reference": "ChIJV2p1AyBzwQ4RSiZ5QqYiH-o",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bakery",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 42,
+    "vicinity": "MGWR+3VC, Rue PE 23, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7061001,
+        "lng": -17.4666375
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.70740172989272,
+          "lng": -17.46524357010728
+        },
+        "southwest": {
+          "lat": 14.70470207010728,
+          "lng": -17.46794322989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 868 53 62",
+    "name": "The Seoul Restaurant 2.0",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116986370143801593634\">Olive M&#39;bahia</a>"
+        ],
+        "photo_reference": "AcnlKN2PL2NZuvYewWvPDGOZQPl_BFi499pL5lzlS-uaSVmVqLMWYSsMzCTvtaRL0zqUkp7xUzqOWM_rU_ZLbgMkWoWd4iFBMm8NCHvIRw7ZmaOP_pNCS7hz4FHHnALoKiC3vskB7Ai9uE5zs8EsfW-iGKcSz7fZc-IEE7MAwSkEDbu7mjxjdivdIpbuM4yq06FlRLPJR7iMWfiG8fcIbclLRZr3A-efDq431itvJpBm-bsPL_Xr-RyJrcorgw58ZNyGptX3DOeZXd06dSQw7Gi_BTM5yJepik91afR5CVQpICmpJlMmgysE8fnnuNU33Yham8LuMmARefcvACQPfFbl70ts4tBBlGfk30ShXPRH7rlyTqZUYJQEK0tFt4isydf_7Tr3gbrD9kaDnSovuSjIRuakyqeAYGxQy0j0tkth32BC3h3gu0TGlm7vd5CBDjpwAh_NNKubKtosOyUl1BZRr8HzwyJU48iJCQybj5dIkRdjiqU45iMFUtXFT7d6qwpYj3LQ_muYJWfGxO0PZEMtqw8Tr0_6Wk20EvKAVBeQZ0eQBokb_np0OPdd1XenhjwikiYshPTs5bMHMg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ7VydXL1ywQ4RE_kQjOEqJS0",
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJ7VydXL1ywQ4RE_kQjOEqJS0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1442,
+    "vicinity": "PG4M+C8X, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7309889,
+        "lng": -17.4355075
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.73234897989272,
+          "lng": -17.43408717010728
+        },
+        "southwest": {
+          "lat": 14.72964932010728,
+          "lng": -17.43678682989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 832 96 96",
+    "name": "The Spot Restaurant/Grill",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2252,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117003374649986890329\">Seung Hoon Park</a>"
+        ],
+        "photo_reference": "AcnlKN2I1uf2ecj8jVHMfc1jqEEYXI_o2cI_wbBs-LVwtdLog-Fe8iTjRkwXqn3FM0eRrzE-7nIkQwio5YDXzu6rPSmtWRV6_8jj-Ygvf2ootMxfpA1RTCVGWH2RtI7D6PPkcOpBJu0CTXnoou3NK2BXIxY7zSObfUawbGOeQwLyn-fnMU2jybVoGJmr9zVGO1YafAcyrRyFl72Ep6bFI9RiJer_l4G0kuthjxzglmxInDDG6skI3eCb7zgiWOQ8CsOwVcQNO4uY6mHLkRN1ugMY3M1CEbJ3WI6_qj9nx089N5ZsrgoNRUWYOk5sxWq_HG3JHxStz_GFmAWf5PVWTTqtpxsATTdjTTN3PBEmi8mgBoohU-ylLV0Skslj3BGXcUPye_1VDJRIP6dJxf2CsqcTwfZXCD1htU65_IjrvzQ-b6WBro6nbhFgUC_bZazQiZLiawe2ac-QO8BZTQcE0sJMISF4_LHYOHhhXzqS-6YLcrn3ICQCLa2MEqF-w7GYsYACZEPpegSwOJQ67O9_rB2FjS7ZCFjBmgS4T6OnS5a4nMLdJeRQkCMtckYfXhg8Lc0-tCneO2x8",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ_6ReJisNwQ4RSZHwfAc0Nqg",
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJ_6ReJisNwQ4RSZHwfAc0Nqg",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 506,
+    "vicinity": "8, Route des Pères Maristes, Hann Maristes, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7184234,
+        "lng": -17.4671767
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.71977097989273,
+          "lng": -17.46582882010727
+        },
+        "southwest": {
+          "lat": 14.71707132010728,
+          "lng": -17.46852847989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 827 53 71",
+    "name": "Restaurant New Africa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6936,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108133764279349501982\">Christian Sorel</a>"
+        ],
+        "photo_reference": "AcnlKN0PPfsIoxPt0rAMg-YR3j_UuHWYBonJqLjWQUavpVtvq4zIVtsA3Kb0sQrD6gLgxFWbQJdxylSp5i66LLw9WZ8ofncijRrvhaWZfy-KEyGFpdQ0GCdV5lmJe9yMdkS3lOLSavDs6JKXvVnLAY7CS8bATpIwIMJikWOGL4vnYl6yH_Pgkd_lA6G0gzZ6FwYeXwa0cAP43i-JU50zOu6V3XXgnpugV0ngtGXWf_ewSNOrp8FMuxX5ktuySPP2wKEpt5HfLUZJ7xzvURlugoYR5mp6sbaZwzTbBoYLnwyx8CA2JYBmWfYkKKiAzMJor27d3fm_3m0oHgX675lFay-5NVO6BVzI3MvMB7jdUu27F9P16tDhpEK_cBg6p5LZ29MXY2wYtLaA-rUM7ObvwgpAxXcYZ-AblffZ78veT0GuHtHaJWiK_p_1UdPkvY56mKSyoy1IWKMDEXCcXXjVHccDIes2e9YXQBkhpbKbAqWPZUeAw7ug65zBlRLStQhJnu-J1MVhbLM32jnOKjA9wkV4zkKxLLVMiEbjZ4QW0Dwk5i3G8RMqTMKW0jUrts4TmRgw4KiKsw",
+        "width": 9248
+      }
+    ],
+    "place_id": "ChIJHYHP07FywQ4Rlp-lZgrYpOs",
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJHYHP07FywQ4Rlp-lZgrYpOs",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 421,
+    "vicinity": "9794, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6660105,
+        "lng": -17.4375878
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66728917989272,
+          "lng": -17.43626262010728
+        },
+        "southwest": {
+          "lat": 14.66458952010728,
+          "lng": -17.43896227989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 144 50 50",
+    "name": "Sofi Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115309509876284195858\">Sofi Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN1__hl7Aa0oE76oERyA54m77j5JEoucieSIw5nZlOYIALek8aVPDpbirzdX_o53o92dzO7CdLpWTTrpH38b064iFuJzQkKtjM7wPr-6NQAHGxdavWuLeWIo_6Xax5d1xXJSAVxJzY3KbKV8qBLygewDr_R8p6udevB3PBLgzcEYeSkyWDhrp62pWhgYI5VQqMkxD9Ic7ep9SA59FhbnXyo3kbSBK8D6AYD0h8U4sdQBpKC10aoqXemZ8I5S5H5ctQDit-dM6p9RzMjdLTqkSSTiRa2azhGOya1kCT-XO-eyUB1BZIo",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJK6JO6WpzwQ4R0smU8aDY5p0",
+    "rating": 5,
+    "reference": "ChIJK6JO6WpzwQ4R0smU8aDY5p0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "Hall du Théâtre National Daniel Sorano, 45 Boulevard de la République, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6932259,
+        "lng": -17.4539376
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69449752989272,
+          "lng": -17.45239387010728
+        },
+        "southwest": {
+          "lat": 14.69179787010728,
+          "lng": -17.45509352989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 935 61 48",
+    "name": "Restaurant La Solution",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105913387618579430200\">Muhammad Siddiq Arsyadia Sumaryadi</a>"
+        ],
+        "photo_reference": "AcnlKN2VCTpIKRyyodXHBEOoJJYNKe5Cuey-tY3dlPi_Ccw_TUvEn1oD30cm1Mzot1afDxumLtFLfJui-_h-g6x_ut2ypbwqB0iUHZLAWwNz197RiG5SeR4HLPxnh3H35_sYpNywqm7i1dxz0ID7Vmk9yXHvkQPbqOIKY8ttfa8Vx3qFPdfY-FbVCu7sOz4KYzG55V91XFupJjDXE9qQ4beGuhgGWCQ-C4pdHEczgwR6lt3U__v-AvQ14L4gVS5yJsljIz-1Kjm7n1UlV1-U2ebx0BShCOuO1a9LVA5do_Ojn7-DrwjlYpNqnl_vCAuW6k-B5RQtykxSWMsTmXF8OLCe_k0XvQE6FZuKukb1eAWrtrpSZP7gbAPNMXeTkBlp40Lw99rvhRlUY1qCcBHsGdcCUN-d074nXs7207hERR63iQnypHC0aJfi8Jypg-mHqE6kAYFqAM9oi8eXp8GyCjcu0CmgaSFxhS6E_m8idUGysMuGLoJ2SK5iVK6BSuoG2YPfrO3YgP0l03Nt9EJ0hEjW4SXFUd_Wqhr3Fs-J16oAQiu57LiUqqocgVuJzou0ASTBV7TkTe1h",
+        "width": 2252
+      }
+    ],
+    "place_id": "ChIJb_s_g79zwQ4R7PskxSW-gKw",
+    "rating": 4.5,
+    "reference": "ChIJb_s_g79zwQ4R7PskxSW-gKw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "64 Rue FA 34, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6679079,
+        "lng": -17.431402
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66925192989272,
+          "lng": -17.43012782010728
+        },
+        "southwest": {
+          "lat": 14.66655227010728,
+          "lng": -17.43282747989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 889 22 48",
+    "name": "TERANGA BEACH CLUB RESTAURANT + BAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115793420099840207166\">TERANGA BEACH CLUB RESTAURANT + BAR</a>"
+        ],
+        "photo_reference": "AcnlKN2mBGI5p1iYloQfkHmeFjTfjSs4B-D9DrQ-r2CSb2MiPPoyg53WqPYAoIWlWfKuFONbZjFJXWTkCdPq9pdzeWkGr5-i3goYtF8nCd5eDVKuiB1quCM6joJ0_8YMXvnbpkH3ebhPYQSJQeZ-kIHrvT2ftJeG7ONqqG3dOe8h5Hgywy6bFK5aVpoIEYmfhYtgIPbqrGfHUwdv92gJwEgBSDof4rqmyS0LzDGQ2Ixy9AMY8MbLZnYmziY28sW-iLZznhw-UXGk4m69-KxDu0BBhHY8bX7NZIrCFK02YFhChiiZcRyTBv4",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJDd4GurRzwQ4RO09N0M_md8c",
+    "rating": 4.2,
+    "reference": "ChIJDd4GurRzwQ4RO09N0M_md8c",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 55,
+    "vicinity": "Place de l'Independance, 10 Rue PL 29, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6978117,
+        "lng": -17.4652878
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69912762989272,
+          "lng": -17.46386942010728
+        },
+        "southwest": {
+          "lat": 14.69642797010727,
+          "lng": -17.46656907989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 865 96 81",
+    "name": "Restaurant Le Phénix Jardin",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114594991624785527840\">Kilari Simpson</a>"
+        ],
+        "photo_reference": "AcnlKN1N8_O9l57mJUsYb9M2cFAKxdgVfnlSQ4g3lydpiNgWsHrExrXBFr1Wttg0UIg1WUlKVDhc6W1Og0v-KHFUX_9ssV8SbcCxjKGj0-n74L9Ij_sqR02e7xp-Da9f2qKJCslXG7skm0CHVVazfKqK7s1U7deCLXX4hvj4hORu_x0PpQRT9fOu2aGyfVsSxyUQsl4NYWEtImOhwpG8yb0afogldv353ZoITCx5W2Je9kynjo0RXEyYf0EWp3AKQtcddAP8_l6E1FQeXhGFkBbywLGEAedp8w_3UU6UzteoMubb1nqX-6yHu3kY-5Y62ZJsC7HnL59j3l5hYcUAB-dPPEkdv3K_c28aUeZtBi6iD1inBF4Umku0JWC35_xGwB5b6gogIFa_cdOAhBZF0YxTVjv-Wf9dR17MOfZriWT5JApZpOEfzoulsQ1MPCiC3XpvnWCptkswjLx_hrOM4_K12ULTakNPNFkGv60fZvLO89hh65ViWl2qaMZy-J_Nr2CGbpPpji6ynYruf3DfD7LzkOpVBrUNKBet5h1Jo34A39xNvuNqy4E0p81xBqJE5ktsem9Rn0maI_tJVA",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJpzwMCT9zwQ4RCu7UCt7m6yQ",
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJpzwMCT9zwQ4RCu7UCt7m6yQ",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 241,
+    "vicinity": "1 Rue DD 75, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6639462,
+        "lng": -17.4344913
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66527247989272,
+          "lng": -17.43312922010728
+        },
+        "southwest": {
+          "lat": 14.66257282010728,
+          "lng": -17.43582887989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 822 15 00",
+    "name": "La Parrilla",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106565415031931847070\">Dawie Lombaard</a>"
+        ],
+        "photo_reference": "AcnlKN0O8eTODnfMEVzhCFWqSYQbnNRcgIjXLlwUXDX43xFgzMx8SeHvy82k9no_uCHxj1T8ijKCzAkCUSuuNY83bVOf7zmVT7GG8cb9G6EX5U3FY417faqO_c18rzgW7X3ylwzNzdPVK0L_g_cv6OdtPz48IDJNoMZGM0lDhKf0NEvGy9oCGysy3ntScIVIF2W-UB11dz7jqXKQ_EQdozoSgMudmtKcQ2Hmxw3diapBjy1JF9vk2J-5MrKGYth2nfaEQdztyS4D86WFKfIqTnaWpUQ_IIOnh44y8XXsMm2gTgplDdFxgoFHJ_Lu7Q9c-w1_Z7DYiN7geSQtfCZ-guPINKHJPJfISgzt2v5Tw_womxhF_DRa_3Xb1wDmotES0Bk1rwtBQygB3h4idZKbe9-d9DIEDEw-jfrusdNkh0BXQYE6_Th01B-gU9Z4DhBbPJgz3ywiSwA1WJMIiQ-O5LpFKV6hD58oHo8RA4RSBV-QSnqyTZabJCbwqH82wPNbun6ekDJdeKGgy1gjd7cOzIEawiN2FiYln2ZH_1BHoFUzuQVHCcQxuDZTsfdEfXIDfijMkWqKLQ",
+        "width": 3840
+      }
+    ],
+    "place_id": "ChIJgw85jkpywQ4R44Ua8ItxzDE",
+    "price_level": 3,
+    "rating": 4.3,
+    "reference": "ChIJgw85jkpywQ4R44Ua8ItxzDE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 764,
+    "vicinity": "Rue Place 18, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6672533,
+        "lng": -17.4410808
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66868717989272,
+          "lng": -17.43967922010728
+        },
+        "southwest": {
+          "lat": 14.66598752010728,
+          "lng": -17.44237887989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 539 49 00",
+    "name": "Arirang Sushi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103964610777528840567\">Shuan</a>"
+        ],
+        "photo_reference": "AcnlKN3vS6f7Cp62pFONu3pikMlyq2UOO83u-TF_Y0FWCXzddanuZJa-vE5VJUpsE7JReDqviSwLl3dflZ7EBQnCN_FhzwCslBNy3C5H5g6GY6OSg4AyWY7SUwOQnWjCBvlOspR723GAb_SoKQIhroRXl1ZgT85Sxpyvpojk9APKdvB73RMFaUM7wdN-Cr1B9prdOe913autcpcNFKcnEWpak7R48AEIIX_WKFopCmHzZtiyKnBSozfWsAn9cVPvRuqBUXW6ipdeRraxyK6zUPqTloPVR0FU9rKDunMylvNsjcQF0TZwwe4t_9VY9by4nyLeG-ohaw1Jz5uPiOhG_Txu66RsxRryDUXe85GBWQx0aB5gCD-URL0QyjRuvi1oPVVVBHmTwpzEXl4lUQFOSgR3szxY8selTW0jG__a0wnyXi1CnKvFOeRwbplOAWmRxjc5u0x4ufMFZTnYAYuw2Au0qLiFTc_AWGMdH5mIfxr0csq4maCRsqyt49kY2Joj9X_7Z53Qu6G-5ShzKPGzcx2EjnyBwzxsaaU3s6qKLpqTfKoecnXj6kK3BkZAbLj3sSoj_j_j0Q",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJy5SyJ0lywQ4RfaHeaOjU6-g",
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJy5SyJ0lywQ4RfaHeaOjU6-g",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 110,
+    "vicinity": "129 Rue Carnot, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6699,
+        "lng": -17.4000732
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67094092989272,
+          "lng": -17.3978508
+        },
+        "southwest": {
+          "lat": 14.66824127010728,
+          "lng": -17.4008604
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 10 00",
+    "name": "La Crêpe Saint-Louisienne",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100303600077091766309\">Yanelkis Fernández Molina</a>"
+        ],
+        "photo_reference": "AcnlKN353z49CW8fS9ODWUUfdXnAahmjmGaf8WHWzhvW2PPDl2eeIgWkUS-BocGX590zv-6y1V0mIgbfIHUriVrA_ngwoTP8B4MJzhMD9j9t3RFlj86Fiyz15UV9iXRzakq2KQ2OxZqlVkMyQ3gLWNPhzaeEMY4-ohJHELOwFm-l6qQdIz54Yr-lv1tWAJo9aozJw_045sfTdeQzDWBWeUbi4ceUugH_60Iy3uIOaT_v2RtKzpYdSKqB2eUM2HM-GgPcJzOUfzieKM4j3FjAtefSn6SeKEQHXqSxQ_AFRQIHAwi2qTthXayh6s5Em8UGP7wcG9Qwz6HGeSfbodGo76zHSzUvgd5-EGMZkH3PfurI_r_m466LbbaEK1VrMfT_e-PXe4NYmaUKUlan4-agjOqsdc1UMogRvcKda6_SbwTaU34X2Ptox4erGqde9GhMASemoTeqr8ByNuzmiCIYH9mJAn-4PBCyiUn4VdR1B0HzqqE9lx277jn6CL3S9OPcB4pi8fx3H4C35fZdx6EuFl19AxIguNUvSSNYqIpfUPeMN-V9dIpuNymhyVhPJ_Zd27Q2G8JSbhXs",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJhSOICUBzwQ4RvPtdE27vi4A",
+    "rating": 4.8,
+    "reference": "ChIJhSOICUBzwQ4RvPtdE27vi4A",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85,
+    "vicinity": "Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6712894,
+        "lng": -17.4286477
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67266102989272,
+          "lng": -17.42730227010728
+        },
+        "southwest": {
+          "lat": 14.66996137010728,
+          "lng": -17.43000192989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 825 71 97",
+    "name": "Restaurant Le Dagorne",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1951,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111001470379242383592\">Cheikh THIAM</a>"
+        ],
+        "photo_reference": "AcnlKN0XKoGzxyUUQ2EMfYVSC1B_e9pQwgkiflQz6e2T1rm1xO1h8yVVTV7c94Kd8k7xfbw8TyTHGRErND0MUn0PT4RsqSGy53KNGgGeBJSvj2Hsuz9wHQz_talezu4phtSiLuJ6hzr0Qsc2cC1ASBZFuOKUbnZqa4L3W0j5dV1C23_frq8rVGOnzJcL_6aWI0_s6iNz31cHNhOlMVDHWMjiLZR82ePr59f96YeJ5bUqe8znIn-NDM1KeWsdxRwXaJFF9zYEyEBLMZLhKID0JFFJyKkvj66Aj917yEmSBmkD3d0q4cxmuNkmwPqSJFqFCKEAHzScXbkJUiIyb8AcoxBvGjKihlOMAx_CNXdnAVmW1VOXUjw_dtNPr1GhlUuW5mBa4SjDDAdVfNf8CBFQ5JCyWQQcW9tPuuKbGnwWuNHL749umBBuweizZ4k0Ww1CJuhJ6doqAUA_FpebBiturQEmXsuJV7qYObDOAsiO0z2KNxnp9ziD2z6TtfrPx4CulD-cCnznZgSRRYnbYBSSJWPl1QMzkYKqRfnOa03Sm4AeVBIUfioCEyEYA7hRB_aMzfnU74bRJw",
+        "width": 3159
+      }
+    ],
+    "place_id": "ChIJ9dGypbNzwQ4RGkoYVwYBkdg",
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJ9dGypbNzwQ4RGkoYVwYBkdg",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 372,
+    "vicinity": "11, Rue Dagorne Marché Kermel BP, Rue Dagorne, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6757229,
+        "lng": -17.4336505
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67703887989272,
+          "lng": -17.43234592010728
+        },
+        "southwest": {
+          "lat": 14.67433922010728,
+          "lng": -17.43504557989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 869 44 48",
+    "name": "Kepar KITCHEN",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114711960603840315140\">Hot Cake (Instagram : Hot__cake235)</a>"
+        ],
+        "photo_reference": "AcnlKN2YHzE8nktnm9FL-HaPEsYRLtwJi6eca_JHKSWWzAKtlVftVMLXKCgvSFY94rCScHBF5UKwGv1FTHVaoCXVjTcFOYo1ITp3q-tJmLnsLO7N9RzkgxUr-qgbbLFssYETOEqzmXEaw_5qGNXsQRvth8eSe-S_404BSH6uCztfxknV3I7mv1HrYFaxN0JLYucrfLy2FE-P3NXA7HALQOT6lS35vdxSkECNUJ4doewubmzkSL_eqV-DSVQYZ7rxO8EWzmmUfqzIGf9TIHTVZO5zrKD5l0SIAYTS04AX49JFnFIs-948pilqt7cD0ST7jJprMNWnlqr6TwtLfqDf0YFg2e2LUukTsxi85OAu6X3l6G2oH8MGhUhAO2taMUABb5Tz32E0l6usTm_SzHCImXu_w7Ak3oTWSfNVDdlLWDblOuAhNK4ZtaQhVq1CaRfy9HihXXe3p15vK5aOOFf7XFhpCrZ-69Gy8aiDhmc6T0ZbkXXUaZcdIl62RqHdSIFE-ktFdHkMz3NAiTq2gOjCWFlapxx78y3pjeYufQPtLSvJPwEK0jGtic6NhCt7mO4nThtoilZ4mHaWqBq3VbrGtbilCmP1rUKLgA",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJ_y5Ms-RzwQ4RY3_5WELeWVo",
+    "rating": 4.4,
+    "reference": "ChIJ_y5Ms-RzwQ4RY3_5WELeWVo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 72,
+    "vicinity": "Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6965271,
+        "lng": -17.4571241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69789562989272,
+          "lng": -17.45580712010728
+        },
+        "southwest": {
+          "lat": 14.69519597010727,
+          "lng": -17.45850677989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 272 20 20",
+    "name": "H&CO Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2515,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101586288708191387627\">H&amp;CO Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN3YyJy7kXWBQaFQYyAvDf6Rqf9o2CcY_CzXlqvNezHxq-_wAnvSUEoAMSh4ENNTdGu8YjdqB6Uz2VdC5x1hpc5j2FUoDvzHOQt2qYMw0qJY9qDKeb8akYc1v7QpkAhPV7iieMpgO8-1RU7jARUTC9M1NKqFqZVvsLA7tYTyzDW4UQfsgTqFZCWp24nBSzUAJznH8nEGBEeBf63vSPp4hneQFy8dcYkZbf7utwPokOg5lefB080lPxDJ3ZDKtoFt0ExfBxifgaZgRw4EfcCht3-6c2O-0Fh_xI1vl5M_PCwxeEk1N8Q",
+        "width": 4030
+      }
+    ],
+    "place_id": "ChIJsTorGExzwQ4Ryel2eei0hy4",
+    "rating": 3.3,
+    "reference": "ChIJsTorGExzwQ4Ryel2eei0hy4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 101,
+    "vicinity": "55 Bd de St Louis, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.725532,
+        "lng": -17.4737328
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.72687857989272,
+          "lng": -17.47238237010728
+        },
+        "southwest": {
+          "lat": 14.72417892010728,
+          "lng": -17.47508202989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 269 98 14",
+    "name": "Restaurant Togolais Les épicuriens",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3016,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107554707307616748731\">Richard Kpobli</a>"
+        ],
+        "photo_reference": "AcnlKN0qlU17BwQh0hNMphkoPS1_5PGQgxxyYbdIw4Jo-nOEBfwutPVyMVwnp8DA3MrHztfW39Ke8VAucCtllKJIOs9KgaungoIgOIFtTuhHWMhgtD_G6NH85y__vioZTGLLBrpnXDNES3AR3Q5MmiknQqr9P0MVdOxXboWUaVAgExTTxT_6pqJjP6PAyOLvr2vlaFt03ed_Ks-WaWuH15rZjGg7NlDhTXqgNIAAuXyi1H3rgKirdfwklse85v5_pyuBFJ2xGjAwi6Hz6zUtYbO0KQ0COkbfw28D_cdC7EBsZkjzxaPF6YQEIyUY8lew1DM_la85KB7mwdVbLC3-I1IyDjgqsFKGTq56h4T2k0qx4zLnwuvKL3uanm9CX0F5D7j00buI20hwFjHTYDJuPIcZVdZEgKCxifgJdZMZZh8GI5jyxRkHXi77YTUm-_1jmQs2v6LwBotm60D7CCpSxqohv-7Zg5qecZwzW5EVT1nYj4NLDcAxPTRqNiMwaOzfg554YeuJGCnFfbN0R2B7RTrW17F_Z-iujsrseT_aiHI9PYA7guwolHvnVPYpiqlxu0OnLUeJzaW7",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJOzKoKbVywQ4Rj7xAAgs-B8E",
+    "rating": 4,
+    "reference": "ChIJOzKoKbVywQ4Rj7xAAgs-B8E",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 163,
+    "vicinity": "Good Rade, Sacré cœur 3 Villa 10416 VDN, deuxième rue derrière, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7240439,
+        "lng": -17.4706693
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.72538787989272,
+          "lng": -17.46926512010728
+        },
+        "southwest": {
+          "lat": 14.72268822010728,
+          "lng": -17.47196477989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 220 06 59",
+    "name": "BRAIZIUM",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101222430611877213119\">BRAIZIUM</a>"
+        ],
+        "photo_reference": "AcnlKN03sfE2Ait2keLodjarBG-YPEkgMSd5hZ6_EZqSZqGyy-dPVhqkHdrdHNDkxHLajSAZjILJeRN3DYxIdNAOpAKNmZx7zhElc8964T8V_A_DhBcqJo9iiPX7E-rgMeq6XOfPEPSKb-oLU0B4uPsPPA0lI7HBk2jXELaM0ABGkDj5a-IcIguei3IOdVaNx1Mecy41GJMbzs0-8jpYJYKDUDiF0yxYd7cr_AHXvQzi54zrORozX8oNv921LHmS5ImJ6dBk0vLHPrSh3gpzGvI-fS9_xo8xzrwl2RbvH6ZjLkldo96HjSE",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ76vnnmxzwQ4RRl2xhsKct98",
+    "rating": 4.4,
+    "reference": "ChIJ76vnnmxzwQ4RRl2xhsKct98",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "VDN, en face résidence Mamoune, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6939289,
+        "lng": -17.4603286
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69530142989272,
+          "lng": -17.45886847010727
+        },
+        "southwest": {
+          "lat": 14.69260177010728,
+          "lng": -17.46156812989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 825 77 77",
+    "name": "Porte-Bonheur",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109066403716336908332\">Emile benoit ndour</a>"
+        ],
+        "photo_reference": "AcnlKN1ChF7yHyEXR1kH23CaBQ22QZrXkGLbF-5gYLdGl9wO5Qe6Nv8dG22tZU9Z-LJ6YgY2Jw9KP4Z9QVF3UA66jlol6N3Vvl0RlOf2ZQFywY4HEO2RcnwkY2Op_c7HVWdAgfn8C07-bQWTGXqeQqH307xa7XQVwqIl3Ri4qH02-LxFGoN4UvSoSa4a7sMVvBlwbY4LK3h9YMVp_4m14NQY5lygMdh2UgROvpXMBUHAGKAjs909HhPA43AJa8ZGdX4LkOxSjn0z4r4HOX5p3eSu-9Xpwjf8bdWciiqZ7ApDwzQ0ei0ha6YUPXspcAl9biczqZgKmWGvu3nsqldWuj-n9E2VBrtm77L8-9l-4pmUJRnxBGa_uVUBuQl7VD9LPKa3KPxxoVBtEFY9saRFec2UiAmkVNnv_9kKQtNF5pUk6bhxBPgka2v2GFtOA-aPglItCSqEH-_QZS8lUG-Gqq5OGOCztCG4sQ5MPkxxB-Anwex962xV8Ueqv5wSPykHOo3Evza5TW5ZcKEU9pEPm8g_xZsm8cVkBu1F2GI0VcXJxIFpMHUXDKQrf5n01S3XfPHQy-d7S6cx",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJA_znko1ywQ4RoGru8AgVV8E",
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJA_znko1ywQ4RoGru8AgVV8E",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 250,
+    "vicinity": "3 Rue 1, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6772476,
+        "lng": -17.4519416
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67865202989272,
+          "lng": -17.45069282010728
+        },
+        "southwest": {
+          "lat": 14.67595237010728,
+          "lng": -17.45339247989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 821 06 87",
+    "name": "Restaurant le Gallard",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105273386810834920720\">bertoforever07</a>"
+        ],
+        "photo_reference": "AcnlKN2B06OkD9Vs-Db6N8CrmX_eroejQbQGuXfRj6qvYwpAgpWm1kUNDDFBbfTs08MjiitmNkihh2UCs8CMl_S6yeC4olKSj0qKpnqLoxLucNfVvZn57hC9OFPYscR1EyEo0gIiWw3j63axgzvxcr6i4U_905WSCkSdX5XJQGEfXXV5_h6q83ir6DFxS42bn2PNJkZm8SK15YqaGdc8xxDHDjUGvxXwG4Uftoi50H6uts2vLdGW4bLvqZHK9E9Hb8TJ6quqLkipENmptni812HMftu3-ADyYiO-RdEdE-w3rKlJ5fIeru1hxxuEqF_2qOYx0_umD67IlVOPLLeJWuG5ciFT7NbDzj_K3dAaMsD7ZEHdYH7w7N-MLQiuB28SIYKtGdA5yAS21mD2jQOtFun-ukqrMzsjFrD1zkEqSKQfSHozR8uBFppV66XwDteNkz-qV25FtPTQ_GCFtxWmXuh2QDT2KWDgQEard01XzlOtb5eOIEF1NoxjMWH1zbxjTPCzxvCzkqdwOm9T4iY556zDoEdI1JoGSMZXbpHQzkfBmKHrDn-JTF-KyhUgc0CzPmaiKnAIAAZF5nlFCQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJI1R9N1xywQ4RuZ4FH2oeAEE",
+    "rating": 4.1,
+    "reference": "ChIJI1R9N1xywQ4RuZ4FH2oeAEE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 112,
+    "vicinity": "Rue 6, & Rue 15, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7290573,
+        "lng": -17.463128
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.73058572989272,
+          "lng": -17.46174257010728
+        },
+        "southwest": {
+          "lat": 14.72788607010728,
+          "lng": -17.46444222989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 78 013 61 61",
+    "name": "Panam'as Liberté 6",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112156929150515953618\">Panam&#39;as Liberté 6</a>"
+        ],
+        "photo_reference": "AcnlKN3ZY-VbiWOIrrGhVDdLCg1YCDnEf-JwMGbU_HcoMYSoz4R904pdrJWqHgkgTFKgWPIxdrFT7yEdF-8CV0AMd9DkLzTTJ8wVtembmkLxuINDmgV0tVHQrzrLCn2DB4x-C1hH1x70TgN2GQPp6Zgi-iOQUKJvIjTI1sN6locx5Q7zmzz5qYZDsIFzHAWI_JYZqsqkUJhgKYNXydfRxnu-CLPFAwa3rT6F2mUU3Dwa_OoIL-JWJ3CafUGmqy0REcYTF-qmuq0Kqs6dajVODvscGw2a3YpItmmSt8kwHw0KO8NLJ-KmYdQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJH9Kb_EwNwQ4RALgNOeKNIF8",
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJH9Kb_EwNwQ4RALgNOeKNIF8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 401,
+    "vicinity": "Rte du Front de Terre, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7172328,
+        "lng": -17.4669965
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.71861667989272,
+          "lng": -17.46566667010728
+        },
+        "southwest": {
+          "lat": 14.71591702010728,
+          "lng": -17.46836632989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 78 527 55 55",
+    "name": "Brown's Food Dakar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103371214522913722590\">Zoya Ilkan</a>"
+        ],
+        "photo_reference": "AcnlKN2pqu09WYAjUFKlxVH7jk5sCQZ6BmXMKCD6FqNGnc2Efw5o4CLgdEQLduI8HbN_Sx7SDE4bkyLtytpSLqh07yp4NAWUUufCe-zcm38qxFctyEOxace9CNNMyZbEi40YM4wv-2FWlqSDIqpptN4piK4dkBCu1ysXF29Ea7OVuBAhnjJ6nPrz06K6CATIRMZ7CnV-lAzsZ4z25cndg7E9DZImxkY4wygotEEDUk9-47PWTpRVyMLwq36ShTf1AcjT8VV-tBRKJPyTw5LEUpzsyVG-I-25blp7eH7ws6vTMDe5PdC5bRNWv1el-mu1OPt0i4GyuKyXpUx1dFQbdTWei-aTVzR4KRfnQjetDEILKNItAQK5wfpOPiSV1ufj6OoOyY4ejryOHaTw9gVSG7jR1ZtMZ1N1q7HzFybVVg0sjYBQNKbP31dLPvDL9q1G9cpJsdVPQbHE5n3GwPg6cirDzxRnSbQbixeRst6rpWZTz5x_kemaO-s02a67dDC_8mKEtHXoF-7eMhWdWw4mRwGJ14UHxKEbIkWQwuH_rqR5Mvt5-Zoslk_xVa34HOPXzFfsCL1mZPCNt_Ssfw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJse6VuyBzwQ4R9SnRzo7L028",
+    "rating": 3.7,
+    "reference": "ChIJse6VuyBzwQ4R9SnRzo7L028",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 138,
+    "vicinity": "Villa Numéro 85, 2 Voies, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7153413,
+        "lng": -17.4536971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.71667577989272,
+          "lng": -17.45231377010728
+        },
+        "southwest": {
+          "lat": 14.71397612010727,
+          "lng": -17.45501342989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 653 52 50",
+    "name": "RESTAURANT LE SUD",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109396977007428266924\">RESTAURANT LE SUD</a>"
+        ],
+        "photo_reference": "AcnlKN1as6leRPLdwOTIcTWqRXI_OqxLRgV3ubev_N9J_KMfPUyrN_PyPzKQQsfy5rYk0JPvQtNNpOD-ps1Zl-SYxuhztJ_wdvZixNunieb_OeocQzBQq90hV-SsHDsOzTLHoSNtNZGqEGRuoebFFYtyVo4fPUUR4CYNXx-uj_Z5bmdDQ6ffVHM3eF15PQRHAOso7uIABk-gfMelujkfyfse4gxItegKjLZB5EK2JLArr8QWp0U4BkdlHsW0FxZAdFOgzaKFN8_9q3Fq9ss04Ma--L78oRO9J5TsiHwj_0G0o8bvqjxmUfo",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJfaXSmmJzwQ4RTJmGfutusKY",
+    "rating": 4.8,
+    "reference": "ChIJfaXSmmJzwQ4RTJmGfutusKY",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Rond point jet d'eau Rue DD 173 Maison 2088 bis"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7138392,
+        "lng": -17.4661756
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.71518207989272,
+          "lng": -17.46483257010728
+        },
+        "southwest": {
+          "lat": 14.71248242010728,
+          "lng": -17.46753222989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 78 294 66 66",
+    "name": "ZEYN RESTAURANT TURC",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2760,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108543399256060257160\">Bedirhan Gümüş</a>"
+        ],
+        "photo_reference": "AcnlKN1CrRCpZinHTWLJ6jjcGy7iBQpc4ed4xuoFToQOJBzkjuHIk-ab7scY-6xcvAa7_9m_yfjdoyMFl7y_FbrgZTz7Fqd9mqEjDxypkbIkWxmm1TXtsMiQDuwG-yf4xWcTtYtCng6T9oNyvtUo6wAzL791U26xxSaexTiVZR0KNszJWGVm8JoXGemKqcGhs6rJQMoRTgA-u0K34AfFDjheZMlmw0IO5Jh6cP5gweSMofX0vRObGv7JvXKC2Rsyrbtlbaztr9V-TJfW8U0BOtYM4Wgz3hxrwOG8GZZSQvi2kVX-ZmsNVKV4SHcV3qKLlVbYAO5LuJjI9Pm5qH3Z3A5X7rpn-I__2cjICjYU6Z_dFruLXJ0gHVk61oTwsWhlxL1bnYw1VRSkR_PyJcIsI_dfY4uM0UXLjx11uuesFiEIYQAuaPI74w3cqqGflfaXHR546kLQjEbJuXYZye2jOYDjhR0HpHFUKbvK8cghys7BtzwzLS0-r8LkgZiUTHwoeMVR2Fp_GiB5CZIyG7at335h3HTpjvwlkVCBEolCllvbcdOt-oWNFKsuaDTCYpqDw7Z83AlkLg",
+        "width": 3680
+      }
+    ],
+    "place_id": "ChIJ1fgueQBzwQ4RoAzhBWm60SM",
+    "rating": 4.1,
+    "reference": "ChIJ1fgueQBzwQ4RoAzhBWm60SM",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 124,
+    "vicinity": "Cité Keur Gorgui, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7026919,
+        "lng": -17.4723329
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.70408292989272,
+          "lng": -17.47103452010728
+        },
+        "southwest": {
+          "lat": 14.70138327010728,
+          "lng": -17.47373417989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 822 61 66",
+    "name": "Le Mermoz",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112434355940798679179\">Emile Mbouna Niocke</a>"
+        ],
+        "photo_reference": "AcnlKN2KWEPjoU8_l6h0nWjI2_CmYgxbIAK9ZwTVbzOUskRPxGV-TngIARkmm_YzzFYdapaXmkQmRWRMqZAqqejS_gZnD3NKx6w_sfsqGFWPDOtxKdX4s40dS97uNQOFiqWfV7251Xd6PYmRMWgzlLwwc9aSg1HZovYaU7aLtILo4pq9ILj7vQxYrgQJwpuW7yn6NEUB7QW-g8UicrLVlaM9qRlCBNFIX33NpDHT1tV2UwSx--U3PFaxu1R8Ss9N7qUDi0joX7ATQPDm7uo6N9yhBIyG93CiUAb8ThO-9kDxK3_XR6Es3iYYmkkR2UMMhtznpJseby8WquUGVvDtMfHcf1IMn8rstgDWHBqCNfszF-BuLdjw1Uyjk8jk7duurn-TIdRHxOR4Wg1rr3thD8qL1RcuIt3IFQ6XdagmVuZQe-9sGdZol2b3GDZB6blEP3hymSOViF7lAMiw2Oh9sAYoIcK8t2kTdp39t5QBvkSoE4eGL23VN1fGVAO47NhkTqTVIyeY-VtP-z7qmCNMVEtI2aMu3TrYxBQ28JYfyiAMzyTxw8I9qUTGkiBdzgsG3Pv5kHlmrdFW",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ7_mw3phywQ4RPIXTCCv6vOo",
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJ7_mw3phywQ4RPIXTCCv6vOo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 393,
+    "vicinity": "Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6682803,
+        "lng": -17.3989043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66964677989272,
+          "lng": -17.39749307010727
+        },
+        "southwest": {
+          "lat": 14.66694712010728,
+          "lng": -17.40019272989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Restaurant Chez Kiki",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2296,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111797222875643248015\">Gatien Obligis</a>"
+        ],
+        "photo_reference": "AcnlKN26EaCVBeETj4Vx7_XoVGCtT7cU2ecyDFAG3MCHA8TLNrVoNJkS3lGpT1b6WS2oDhWCE-09-yRiBllYizqTuosJS8V8jF9aGoD_VWSWLtozYu0MAS5Fyt1yJqjXRYEdjarx8y88zEOev-ZXgCBFupPkI0XWwCVvknsjnP2SncZ786Ejtbl1_go3XhiFAEKlmANBXe2TBk0nlBJaYx3VKlwlw08UliW01R4t-nQqy7djY_rpwnSJQEoUjrLk1xf1sN2hxRCn7kp2siGMXNb37cW8CrKjNGIx7rmiz1xvBjYrlw-yuGfOSVq26VoKENLYS6FporuSSKjNTLktf_AgZb3DmBlPKlRoznvcpXX24qQFOnPVo9LqHjNy5dyANPDoOaqXv1qtiBjbIhtJLZKik78T4aTp6HRK6ufP5QGOckrSXW7l19dFRnkOaSte65BLkkodYxPi3svxh1mAQDxX6o-efHPe5WEhFdltt8VOau0uiCAvrcAKwiVD6s4BB199BLtsGdHizG0mURJedF_S8WaDoqmHDJwoqpc3AsY51R5aM-IOYihWiQ1BlICl1l6qY_9GAGxaNJyv6mmAD4jd8YIkcgfQRQ",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJ20Vc95JzwQ4Ryc9OJKz2CXo",
+    "rating": 4.1,
+    "reference": "ChIJ20Vc95JzwQ4Ryc9OJKz2CXo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "MJ92+8C9, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6965526,
+        "lng": -17.4658463
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.69782342989272,
+          "lng": -17.46447782010728
+        },
+        "southwest": {
+          "lat": 14.69512377010728,
+          "lng": -17.46717747989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 825 33 39",
+    "name": "O Good Food",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104837182670846649214\">Glenn Clark Evan NZIENGUI EBANG</a>"
+        ],
+        "photo_reference": "AcnlKN0b0N7Dt9ToVDuN_N5cL-L7StHN5yPChZhF030LPlVB10mQ4aVYTdB6IS0wY7oZpb6jdRuQMGfk8-zR_hKhBOihppPZjyPI2gdxp0_LLO0AAp1m8Z6750UXJEHoHCZBT522mO9chaRBYj4FmzMTuvsMp33HOGNd0GLLB0WQ59BR1cHTX07AIHYxI7FG1XGMR1Eq0GyodQ2WQ7NSfX7I7LXW4X4uXp-oBHbSWDtTRWB2LYCRFI6vbi3I0LpyHxZW6XcUwGvQkKs1hTcFkvLkS5o0L5Vm_LxhccLenLWjeHTx4dZeZsytwso_K5xlYUQhanMtKMJBn9y2YXrbHV4eBRMODlmWfhugtOBuk495QuctObcCmoSrQVDJJMwp1kZWQubeD64Fbkli8bQg_rcHeytEHe6QnhSo4oZX3mElqOSBYedO7FYJabvXtTWj3K3_kJ9L-0kz8YsiAibrSfzUIq4QajRCH2IN_i1gVVzhtldaIVUnwbZBiBDsFOdAp3jOJ1LSjSTWIynRLNLE8_b-Xm_X95wbH5k8NnC7wBfnbn2pA2djakvll0YAPjlp2tCrc0T-yMG2",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJiVAGXJBywQ4RydNVIQrWVV0",
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJiVAGXJBywQ4RydNVIQrWVV0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 510,
+    "vicinity": "MGWM+JM3, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6703864,
+        "lng": -17.4280016
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67169267989272,
+          "lng": -17.42663152010728
+        },
+        "southwest": {
+          "lat": 14.66899302010728,
+          "lng": -17.42933117989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 66 66",
+    "name": "La Fourchette",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112191624195343025203\">Oliver Krantz</a>"
+        ],
+        "photo_reference": "AcnlKN21zkYBT-A2CytlsADcB5k0WC2dTEozsE5erM4-l3boQQboEpPXLyUlsGoDJaTsuhAWf_GkwlsLygeaLgebv0fFr5ly2r59hJGNE5LMlk8C-uXvxjnsKPKqvlOwMWvfRSWk9h1zZL63v3ziDxJr7sxSnGwlrXHN0CTB8NNyy-RlVD8XYNOFnGRmhfYJpeNa9pj_LtxPKDL1b88UnrUCWXOpQlJ7-w1TVw_8qeONPab28wlEWJSzg4y4Wmih_Mn7hOy0JROz3ai3LlV3HnO4BhNh1A0ZjpFCf89H5yviLn5595KU9eeN9NoJw-SV2qr8jQoynm_UXuS5kQQdvVrvwzOQZ974rIPDzq048VhV5JQtWA2fHOkXVTn3TPvkP710-j_1y-rR9vw1mqKO-2aozXT_u6QwKV86iJq1kcLetXipoWU5k_kpVCt1B-hd8AeLVJKCMinWA32L7tqTG9IuNpBiqXLaqC351f5SH2A7fxiXXyAlHSABRw2QvEmJXR_zmzKQJdbH0C9eVymK6T72h4Y87ZGFzeQjgy--Bn3sFECcBuW_YD3eXjVZt0qHYfAVzu3_auft",
+        "width": 5312
+      }
+    ],
+    "place_id": "ChIJ2xCllbNzwQ4RGTBGn8tfqGs",
+    "price_level": 3,
+    "rating": 4.3,
+    "reference": "ChIJ2xCllbNzwQ4RGTBGn8tfqGs",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1079,
+    "vicinity": "4 Rue Parent, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.7375015,
+        "lng": -17.4630208
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.73887122989272,
+          "lng": -17.46170352010728
+        },
+        "southwest": {
+          "lat": 14.73617157010728,
+          "lng": -17.46440317989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 587 47 47",
+    "name": "SYMPHONIC RESTAURANT LOUNGE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107929757808670227328\">Thierry O.</a>"
+        ],
+        "photo_reference": "AcnlKN0vcQOK1Y5f3QtR2UPUcdzWYXyIPb4LG-H3cCnflicaZhAaCwqj1mvZ-1-lhtaJ77Et3SB--Zkm28owpVf-rGFIGe64ywKpkYLLseqCy2rGOs6VBTTyNy8WTh-phjDPVY1HsO641IKnndimMH_hBx7XoJMBlIjJcgM0VTmSxnjczL7qIaICi2Z2CtY7HlZHTjW-6xrhPsOe-Psn_NODFA-LzIirsw30Run45SENUxjm3Vagaybv2cG4vHgTFEqc-PU8Vk3cu2madw7ryMFdZhfegdnpAy_18VA_3j8OsIk8wj-7EVWpDo0NvvppWu3JCMr7YizmItnemBCoaXxlyQQznHjtFzdUUWnmyQ4-sa2oJCPrfaUWmwSsMrxZsrAM1ayHY3ewBY8a99sw14uaG2-s8pBj93xt2Vfy0Es_sJtKeudZaN_wGZJean-wA6pypWm-0-0BP09RoShkC04a5jYHYy7_PyLIkSJhUYbG5LMqiODsIsbMYf3y4GCxvIHl7TQC9C2cWkLGWwbZdZIgq-Gj-3og1tnKKkv7LI6Z3Rjmpiniz6UkaKT8czwrCGxEZhVmH0ZM",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJRWs4pr4NwQ4RkrVr4IMXBI0",
+    "rating": 3.8,
+    "reference": "ChIJRWs4pr4NwQ4RkrVr4IMXBI0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 185,
+    "vicinity": "Rue GY-179, 13 SCAT, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6767494,
+        "lng": -17.4517271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67800102989272,
+          "lng": -17.45024257010728
+        },
+        "southwest": {
+          "lat": 14.67530137010728,
+          "lng": -17.45294222989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 42 11",
+    "name": "Dibiterie Le Mboté 1",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116748850676012879775\">Mamadou Thioye</a>"
+        ],
+        "photo_reference": "AcnlKN3E17MDgOyWSvT6Ta7sjIN1DvrnvTd6qM9DdLEHAboBEsufmK3RErYqXb0aBw8yYEU3PcAmkWaNrPaoEpoz7OFCOruqLJjwg9dG0_UpCKClt1EmgXzrPDcVcKNj55cjVvVcNV7rVILomeXSk4UjfhncVQfgeWl4fqBXIWOPuU3-CKf6CroQfDep1QuI-bS0V0M_nWYhVz-LYypGMfZGjaTmZcjg06dQK7ShMlphLvo0shMPk3FT8mbGpfsAgODQH0ZDaoiid3Cr0Jc0yw0TVgjrRiWShWKLgMMyWq87H6xGYK9O6DOEIo0y-CtZb5GUzaVwOpgbFOp5OfgdN6GegJh3HqHENSJMccMLxJALx9SO-BCYfE7Zu9HHLTAzcrjz0YTCQTqzfXJOjCAY6QCLVW4HU_lT9yvlt1jVU3KQgvXBndKqd48l-WCpjDMVjkU_epNTzSxYKZgeqh7kpwuvO7_QuuQx5YMEf1sHnonqxmxjksCckTAu39z5O7-SJ55ZWrwSDZVWmUEYkLJnrLoS6wPOap_lGoYsRNNOjpOYLbRo5tK6UEDs1lEehDEiSsUqWrm3RoRa",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJtyHdQ1xywQ4RJ7QXgdEbEv4",
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJtyHdQ1xywQ4RJ7QXgdEbEv4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 868,
+    "vicinity": "Rue 6, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6726448,
+        "lng": -17.4296328
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67406647989272,
+          "lng": -17.42826932010728
+        },
+        "southwest": {
+          "lat": 14.67136682010728,
+          "lng": -17.43096897989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 849 06 49",
+    "name": "Quai 19 Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 367,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115300905163705088265\">amir Leurch (Amir)</a>"
+        ],
+        "photo_reference": "AcnlKN15a6aA0BodgdzddkSj64N1NPSTi7en_EpvGG-E777qNnM_2aGsRoV4suVOBHrI183ETiP6heAAwc4o3bPTeWXaiMwKcaC49gr_H7jR6mIEKDi9UB21ztcdcCQZxwmpf62b2yWLgOO5w_m40IkNt668xKU2XJ7GTdVXe2mi5IZkScB1y8OwnINQ4aCbQ-YP3GKvOS2MAuOYowdDSGLNEtTy9_YMKEBJFlvMi54Ov2GhAdYIao3M3psrvzDMZIAR40lV6PEQrbkjgJToK5Jv2532qT2FhZhPkwwYzLra7B4SmKt2edh1Sub3_n8-KycNi36VhU7MDe6u4FSIHZHJtkuJr7-OyZgpjNIASAKHK7-rvuvQViFpW7HFI4L2wz8KUqX4RNdtN2ZOOj5CI3NrZ0D4x3B_b1UK04DUVaI68IrJs_TBNsKd8Ai2fH_xs1tFbRq8Srkdz7fnm8mPKJoqQ7y40Hj5SsPg1H8JjArDQcZqG5gdQbGDm8NiF7ISbEnIjxXB_0_3N_Wy2p7idGgp1x7AzO4fGx_9g5CE5nzVNWsl41pXA98wZwnlpZZzwxBR7I1EYdak",
+        "width": 550
+      }
+    ],
+    "place_id": "ChIJZ-J-h41zwQ4R-fH5KYuUUxA",
+    "rating": 4,
+    "reference": "ChIJZ-J-h41zwQ4R-fH5KYuUUxA",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46,
+    "vicinity": "29 Av. de la Liberation, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.716677,
+        "lng": -17.4676861
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.71797662989272,
+          "lng": -17.46630972010728
+        },
+        "southwest": {
+          "lat": 14.71527697010728,
+          "lng": -17.46900937989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 671 11 49",
+    "name": "RESTAURANT DAKAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113031055052944413509\">Pape Assane Seck</a>"
+        ],
+        "photo_reference": "AcnlKN0eGATgpKGsRVECqeC1ofG5B5RYcV2ZXvPzBfsEkpZL2eJzOVBgWFvXhGd16fGCXKmt9Sr6yUbqpGK308HReV48L-i3IBsY3HaycquZse8QDQt5k6V2WNkIOHFwU5M-a95CznPfJGQMQtNJCMsSuhaelj-FiMoU-CUwxSmyvZBUE_R-T13XbotNDzWrYrFB6YpTZL5qI9n0Pg7DyAouOI3BGeYZzQ12XwW6iw4FGvXYd_BjUbtKY2Oxyy_m_vqd8kDaea5T6h_xAYU_U-DbXw9p2wq-WZPJGUbt4hkcs3fo7ZMBDpKPit0GlzHycMPoTGc83PMxwWbsFplrLxfTbA00MTfJrhNVgR2_OgvJEehm4_qtKp3vynqoz9-rq9Nm52Hx2y4ZOGIDA3Nz45P4wcyRQm_J6q2ncyHdaDJBPQVlV6V2CRUMrId9JJOC-6dA0a73-KObl_c-vVx5D-uNQ7yKUh-1o39gwy8wcCRzFB3x71tBAPSHsPfyhm56BZUfdbqZVAHaPXn9nDSEjUjCbSgA8e0gKXvRF4_vnatoLP_Sw187Ti3d2_sqeIncUZZkT8looEeX6TOC_w",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJBU_YOEFzwQ4Rc1DA8ZfSKWU",
+    "rating": 5,
+    "reference": "ChIJBU_YOEFzwQ4Rc1DA8ZfSKWU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "https://goo.gl/maps/i6yYtnbXZcPRkE9H8, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6697413,
+        "lng": -17.4334176
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.67112492989273,
+          "lng": -17.43203542010728
+        },
+        "southwest": {
+          "lat": 14.66842527010728,
+          "lng": -17.43473507989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 842 73 13",
+    "name": "Le Layal",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112573211523004215300\">Souleymane Abdallah</a>"
+        ],
+        "photo_reference": "AcnlKN1sq95cIkAz6z3LrK4wbKw2crVqlsEXoxNp4D4k72lexrA8cTbxkZO4G9N7B9uZ9EbC5k9Fb5k5H_hFL-_RS1lwSiTsG7QO1ho11KN5qxjgWlPDFW55fn3lKsOPqnm8j4WRs8QCpOEvqPj9qfc03UaPFhuKSHcbdlC7VqGD1TfIJ4sVHwIqtf2bVLAf_lX3RRiowUtyaw2ujrAr2jUONEjYFAdkeKLc26o6lZ0uR4qS9xS3Z3UDpUO_2OwlixftQph16Uael35UyeKFrbVbDf7jT4cwz3wV0fmhmPYMidzP1vzwoMQ2rejRv7AtDb7vdjEM44OEQ5K05xrr4OYuB7RMPTG1VDrnyfezr5pnOX2GVYkIB0vDjNX4e_1OQGW7vqO13A_sjmijRKjjYQgVWUkDW85NQvAxGuJSoyvMB3sw1z2W15MB1ky18tNx1g09L3hsnpkO-GXj7A3sK5boDu7E5y-MeDKwYJgxuxBvrUR7O63-GRqwGPh7mB6U9FNQnbY8vMtCZcD1cpJQi9nYY3CdvMwf9dTofdTdbKT4odm4tnjTVVb3lS8RT31GzvJG6x9xwW1v6HwAAA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ77cQvExywQ4RuG6AlYjBEo4",
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJ77cQvExywQ4RuG6AlYjBEo4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 372,
+    "vicinity": "Rue Dr. Theze, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6671403,
+        "lng": -17.4369518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66860517989272,
+          "lng": -17.43568182010728
+        },
+        "southwest": {
+          "lat": 14.66590552010727,
+          "lng": -17.43838147989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 821 96 72",
+    "name": "Le Bristol",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109262701514526325904\">Shopmeaway</a>"
+        ],
+        "photo_reference": "AcnlKN0AsYuBs3Pt4OjPEsYH8J-2Jsrxv3YmJoI5-Weo8ThUkqPMI_8Tv40pGxBo8nODSF6ntSPmveoUBLxlgpFgJp3hrEMR_HhjemttJPDMfqVUj-NTmTvu8mpG49l32_ph2PuVL-N8kaz-8vx7wAPoEOz4xq5xxw-XhvGyuRZRuGT7ilfRd6y_inyc9m8gYfj9klqpW32QQL6nN9sywPEMgXrwHA8kpRaOWpunXoNx9minfC3122Ti-N70vDYH1Z6kzy-AevkeL6bSQMIEhAMV5UK4Yz9BnEoWlj04rhuEaB3Wuc_0uUGpGmbDAkzWWeNG9axQ37ExYyx2B-7LnNCBK5Y6q9kLrUucnoPZNWQ9Tk1LnuLbIffQlScleD2BzBislEOU5ZZ-16fyDEykjegBQy9LvGCV6DDxQ9xg-Na2MgbIdSsFaHfE00NXgEXg9I3qKCid07ftNyhPUFI2YTyD724DvXRBOwwc1sUBHC7Z5WxPsaMbKUwgaSxpyO4i1gKBi8X7QZy-2b4NlVY5CFMpmy7RsRtt-g2ujwu0GCxQrWQRoVwWxZk8XRWIsxR5O0ypgnmWBA",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJK67K7ktywQ4R-1hMCiuIjqc",
+    "rating": 3.8,
+    "reference": "ChIJK67K7ktywQ4R-1hMCiuIjqc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 160,
+    "vicinity": "le plateau centre ville, 123 avenue lamine gueye, X Rue Carnot, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.725367,
+        "lng": -17.472115
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.72673987989272,
+          "lng": -17.47068642010728
+        },
+        "southwest": {
+          "lat": 14.72404022010728,
+          "lng": -17.47338607989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 867 16 17",
+    "name": "Complexe Good rade",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5312,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112046123660882473814\">Mamadou Gueye</a>"
+        ],
+        "photo_reference": "AcnlKN3Mbzc3OOh8u-Oae8Ag1mvMjpaeDJ22lrDV2900aoEbzlrNW2Ch6VEpjev-bbI0clS-8512SJ2EiWVgoCCApyy6C_de0VffzU_ayoFhec1-tq_s19MjX9N7lyDtrN2QScJV6pcz1dDSrPergoe5FmtfkKUN8jatxtk4Ox7T1FjdcUzwEZofi9hNOe6rAcDk6K_YwkPci_JGc5pnWvmlTOHUSyCay2N5EIe30n4iCgbndhNde9RqYoI4r6P8MTxyGX1kEODPYu1ikUa7FfsjTrtqHEO6STVtpX38IB7ffXQmo4-TVAu7N4Z9pmjbQ-bGPqHjxuPdGCjgUokFjy3TQlkD7XWTTW6jnEiOx37DYx8oLxUREpwfdf97j3mrIw-WvUnTjtOSLCm9G6xTOjF2-P-m1MLXGNXtx7-kQlisHtxaY_v-lyPbHviYzN61Wv0L4pZwavMZfbqoCKF-LDb23c26RfcHhWeK7abiCt2RzfOFYn7vfpEpixBQw8kBRfVbDhEmeRIBf7cmFESrZ7imaAClpaCIyWCWAyjujJY47AdMvu0ZK8nhH8SqSZQ_yIEvPMKwzbRiLVQvPA",
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJj25FE1MNwQ4RXL3c0srIXUQ",
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJj25FE1MNwQ4RXL3c0srIXUQ",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 662,
+    "vicinity": "10561 VDN, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.722957,
+        "lng": -17.4481628
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.72427782989272,
+          "lng": -17.44681727010727
+        },
+        "southwest": {
+          "lat": 14.72157817010727,
+          "lng": -17.44951692989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 77 218 34 57",
+    "name": "Restaurant Mère Fa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1944,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115274870696006081375\">Mamadou Barry</a>"
+        ],
+        "photo_reference": "AcnlKN3iqqPA0NOsb0jYXIttGDFbA7UyGNApkj7qBXRpfLnvmnngwZHmfYV3b3NqYWWjQX4lZhw6X__Sw3UuYghvtpnoCQbSCo47KIhw6J-Y0q7v60azExdGmFYPFpsnLgLIcSuWfwI0x7P5zjp09zTiNdjpipnPElDfZYUW2yXKeUmGQpiHayJsMx6xW7jpK9_CCdzByrSLhkTKYH8duebLE3a44Du4vhh1SGNwvnyrL3snzxOP5y4xmD6A5Dv1F5YVg_8kvwRNeb1LkryUPVCCtxNbqX2avo-cKT6QqA8VlhTpIoYA0TKvA-AqYFwWivtvrrpDdZB40L0afvjfZEuC7ycMEuFD3JQXGb7Mm8H0yN4zKYURQ0WzhhX2aN-ZHXAiFHVWiTutCqCZvcib5bwaoRfzMg9VyRc3L_s_M47nBV-EjKlzyQ_BEbTTb6cXje9QI703_UgnFBSK96pTuGAcPeRUMNMibKkhEEkPOkY2mLc2_HZM4wofIE8LAycQQFO4MBbee57l5hxAEMHdHjpk-gwCM41uJ6fc6U3AheKkdZuqmouxSUlLmJkWs-ES9mgA1GF3mK1tmjsLuA",
+        "width": 2592
+      }
+    ],
+    "place_id": "ChIJhzTgoX9zwQ4RDbxG_FWC8ow",
+    "rating": 4.6,
+    "reference": "ChIJhzTgoX9zwQ4RDbxG_FWC8ow",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "PHF2+5PP, Rue IV, Dakar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 14.6635168,
+        "lng": -17.4348435
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 14.66485522989272,
+          "lng": -17.43348872010728
+        },
+        "southwest": {
+          "lat": 14.66215557010728,
+          "lng": -17.43618837989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+221 33 823 40 40",
+    "name": "Beluga restaurant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112776884627668057249\">Stan Levenger</a>"
+        ],
+        "photo_reference": "AcnlKN1fUt5EzkGVMZMREvMJgdP3lucMoBXi_tWEjAHsP0VeJsrLBDIx62nsnMxA8iCWxF8XaRdy8HWyr-0dI28qfLm_4NNJuBJokTx9mJaqmwtrfpdsHIktTpmD-kyytkGinENxmB1kc43v7sx5DQ44QpUxkeA3hshCWOkOpEjv4mO15bCyBdV9F3Egd2O_Kdhw5D_29N1GooQDYmnCXfP9uXP9M9vaLg2tczQUFRXis6a4j-K9y8z9Uozy9_ESOCxamXd1GLRewqkOLW9MBsxx_CNmvT7mJJ24FuP5XOMxtPNHzUlWxFA6xP5tZuhnydgoVLZdtObqqHUHUQzTAs71irWW3S4YsOFW3uK8YDDXrHDP6L4Z7Cb8pihLuy7p7DgLc_D1yB3sZ6aHmaNt-ld1BLM8zOEXZETDhMtkr6vwu8_mY4E7U7MG0LtjGJBQPAtc1qs86GjQL8pxuGunoU3UiSNuiS2DiUL5EFB2GHfwghZWc18Hh4_gjZhJW4KogTTeARWnOb056mi_1YdEpEOC2A0VGwy7Y1QO7nTwfLJNvhsHtenoT0HH8M53l1CdxGDNi1UC6PQnc5appg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJxbCHhkpywQ4RL_3PCfeGIXY",
+    "price_level": 3,
+    "rating": 4.3,
+    "reference": "ChIJxbCHhkpywQ4RL_3PCfeGIXY",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 592,
+    "vicinity": "Rue Mousse Diop, Dakar"
+  }
+]
